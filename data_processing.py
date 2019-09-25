@@ -36,8 +36,18 @@ treeFXD = load_file(file, FXD_cols)
 file = path / "p4.treeGZD.txt"
 treeGZD = load_file(file, GZD_cols)
 
-print(graphGZD)
+file = path /"p4GZD.txt"
+GZD = load_file(file, GZD_cols)
 
-indexNames = graphGZD[(graphGZD['validity_L'] >= 2) | (graphGZD['validity_R'] >= 2)].index
+
+indexNames = graphGZD[(graphGZD['validity_L'] > 0) | (graphGZD['validity_R'] > 0)].index
 graphGZD.drop(indexNames, inplace=True)
 print(graphGZD)
+
+indexNames = treeGZD[(treeGZD['validity_L'] > 0) | (treeGZD['validity_R'] > 0)].index
+treeGZD.drop(indexNames, inplace=True)
+print(treeGZD)
+
+indexNames = GZD[(GZD['validity_L'] > 0) | (GZD['validity_R'] > 0)].index
+GZD.drop(indexNames, inplace=True)
+print(GZD)

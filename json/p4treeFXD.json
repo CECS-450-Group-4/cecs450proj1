@@ -1,0 +1,3541 @@
+[{
+    "Number": "1",
+    "Time": "881",
+    "Duration": "199",
+    "ScreenX": "734",
+    "ScreenY": "559"
+}, {
+    "Number": "2",
+    "Time": "2276",
+    "Duration": "259",
+    "ScreenX": "258",
+    "ScreenY": "549"
+}, {
+    "Number": "3",
+    "Time": "2954",
+    "Duration": "120",
+    "ScreenX": "118",
+    "ScreenY": "565"
+}, {
+    "Number": "4",
+    "Time": "3831",
+    "Duration": "100",
+    "ScreenX": "202",
+    "ScreenY": "557"
+}, {
+    "Number": "5",
+    "Time": "4589",
+    "Duration": "259",
+    "ScreenX": "298",
+    "ScreenY": "556"
+}, {
+    "Number": "6",
+    "Time": "5426",
+    "Duration": "120",
+    "ScreenX": "106",
+    "ScreenY": "548"
+}, {
+    "Number": "7",
+    "Time": "5566",
+    "Duration": "100",
+    "ScreenX": "88",
+    "ScreenY": "546"
+}, {
+    "Number": "8",
+    "Time": "6164",
+    "Duration": "100",
+    "ScreenX": "123",
+    "ScreenY": "160"
+}, {
+    "Number": "9",
+    "Time": "6284",
+    "Duration": "219",
+    "ScreenX": "102",
+    "ScreenY": "199"
+}, {
+    "Number": "10",
+    "Time": "6523",
+    "Duration": "279",
+    "ScreenX": "76",
+    "ScreenY": "226"
+}, {
+    "Number": "11",
+    "Time": "6822",
+    "Duration": "140",
+    "ScreenX": "82",
+    "ScreenY": "247"
+}, {
+    "Number": "12",
+    "Time": "6981",
+    "Duration": "219",
+    "ScreenX": "252",
+    "ScreenY": "222"
+}, {
+    "Number": "13",
+    "Time": "7281",
+    "Duration": "439",
+    "ScreenX": "292",
+    "ScreenY": "235"
+}, {
+    "Number": "14",
+    "Time": "7939",
+    "Duration": "159",
+    "ScreenX": "49",
+    "ScreenY": "573"
+}, {
+    "Number": "15",
+    "Time": "9553",
+    "Duration": "159",
+    "ScreenX": "331",
+    "ScreenY": "534"
+}, {
+    "Number": "16",
+    "Time": "10510",
+    "Duration": "120",
+    "ScreenX": "458",
+    "ScreenY": "777"
+}, {
+    "Number": "17",
+    "Time": "11029",
+    "Duration": "120",
+    "ScreenX": "433",
+    "ScreenY": "760"
+}, {
+    "Number": "18",
+    "Time": "11607",
+    "Duration": "100",
+    "ScreenX": "266",
+    "ScreenY": "557"
+}, {
+    "Number": "19",
+    "Time": "11727",
+    "Duration": "100",
+    "ScreenX": "251",
+    "ScreenY": "557"
+}, {
+    "Number": "20",
+    "Time": "12006",
+    "Duration": "100",
+    "ScreenX": "331",
+    "ScreenY": "545"
+}, {
+    "Number": "21",
+    "Time": "12524",
+    "Duration": "160",
+    "ScreenX": "130",
+    "ScreenY": "555"
+}, {
+    "Number": "22",
+    "Time": "12923",
+    "Duration": "160",
+    "ScreenX": "78",
+    "ScreenY": "547"
+}, {
+    "Number": "23",
+    "Time": "13401",
+    "Duration": "100",
+    "ScreenX": "182",
+    "ScreenY": "532"
+}, {
+    "Number": "24",
+    "Time": "14478",
+    "Duration": "140",
+    "ScreenX": "85",
+    "ScreenY": "549"
+}, {
+    "Number": "25",
+    "Time": "16851",
+    "Duration": "160",
+    "ScreenX": "29",
+    "ScreenY": "506"
+}, {
+    "Number": "26",
+    "Time": "17130",
+    "Duration": "259",
+    "ScreenX": "33",
+    "ScreenY": "535"
+}, {
+    "Number": "27",
+    "Time": "18904",
+    "Duration": "100",
+    "ScreenX": "205",
+    "ScreenY": "546"
+}, {
+    "Number": "28",
+    "Time": "19203",
+    "Duration": "179",
+    "ScreenX": "94",
+    "ScreenY": "557"
+}, {
+    "Number": "29",
+    "Time": "20898",
+    "Duration": "120",
+    "ScreenX": "664",
+    "ScreenY": "524"
+}, {
+    "Number": "30",
+    "Time": "21237",
+    "Duration": "100",
+    "ScreenX": "703",
+    "ScreenY": "558"
+}, {
+    "Number": "31",
+    "Time": "22593",
+    "Duration": "100",
+    "ScreenX": "738",
+    "ScreenY": "586"
+}, {
+    "Number": "32",
+    "Time": "22712",
+    "Duration": "219",
+    "ScreenX": "727",
+    "ScreenY": "581"
+}, {
+    "Number": "33",
+    "Time": "23211",
+    "Duration": "100",
+    "ScreenX": "142",
+    "ScreenY": "577"
+}, {
+    "Number": "34",
+    "Time": "23390",
+    "Duration": "180",
+    "ScreenX": "107",
+    "ScreenY": "567"
+}, {
+    "Number": "35",
+    "Time": "23769",
+    "Duration": "140",
+    "ScreenX": "775",
+    "ScreenY": "551"
+}, {
+    "Number": "36",
+    "Time": "23948",
+    "Duration": "139",
+    "ScreenX": "765",
+    "ScreenY": "561"
+}, {
+    "Number": "37",
+    "Time": "24227",
+    "Duration": "180",
+    "ScreenX": "781",
+    "ScreenY": "569"
+}, {
+    "Number": "38",
+    "Time": "24746",
+    "Duration": "219",
+    "ScreenX": "80",
+    "ScreenY": "243"
+}, {
+    "Number": "39",
+    "Time": "24985",
+    "Duration": "120",
+    "ScreenX": "52",
+    "ScreenY": "250"
+}, {
+    "Number": "40",
+    "Time": "25184",
+    "Duration": "379",
+    "ScreenX": "287",
+    "ScreenY": "223"
+}, {
+    "Number": "41",
+    "Time": "26002",
+    "Duration": "160",
+    "ScreenX": "752",
+    "ScreenY": "557"
+}, {
+    "Number": "42",
+    "Time": "27497",
+    "Duration": "100",
+    "ScreenX": "112",
+    "ScreenY": "227"
+}, {
+    "Number": "43",
+    "Time": "27617",
+    "Duration": "140",
+    "ScreenX": "68",
+    "ScreenY": "229"
+}, {
+    "Number": "44",
+    "Time": "27796",
+    "Duration": "199",
+    "ScreenX": "274",
+    "ScreenY": "232"
+}, {
+    "Number": "45",
+    "Time": "28016",
+    "Duration": "239",
+    "ScreenX": "299",
+    "ScreenY": "243"
+}, {
+    "Number": "46",
+    "Time": "28275",
+    "Duration": "120",
+    "ScreenX": "281",
+    "ScreenY": "242"
+}, {
+    "Number": "47",
+    "Time": "28414",
+    "Duration": "140",
+    "ScreenX": "285",
+    "ScreenY": "234"
+}, {
+    "Number": "48",
+    "Time": "28594",
+    "Duration": "159",
+    "ScreenX": "298",
+    "ScreenY": "240"
+}, {
+    "Number": "49",
+    "Time": "28813",
+    "Duration": "160",
+    "ScreenX": "88",
+    "ScreenY": "231"
+}, {
+    "Number": "50",
+    "Time": "29232",
+    "Duration": "379",
+    "ScreenX": "64",
+    "ScreenY": "242"
+}, {
+    "Number": "51",
+    "Time": "29690",
+    "Duration": "299",
+    "ScreenX": "53",
+    "ScreenY": "246"
+}, {
+    "Number": "52",
+    "Time": "30069",
+    "Duration": "100",
+    "ScreenX": "278",
+    "ScreenY": "236"
+}, {
+    "Number": "53",
+    "Time": "30189",
+    "Duration": "120",
+    "ScreenX": "290",
+    "ScreenY": "234"
+}, {
+    "Number": "54",
+    "Time": "31565",
+    "Duration": "100",
+    "ScreenX": "677",
+    "ScreenY": "568"
+}, {
+    "Number": "55",
+    "Time": "31784",
+    "Duration": "120",
+    "ScreenX": "745",
+    "ScreenY": "574"
+}, {
+    "Number": "56",
+    "Time": "32202",
+    "Duration": "100",
+    "ScreenX": "767",
+    "ScreenY": "561"
+}, {
+    "Number": "57",
+    "Time": "32521",
+    "Duration": "120",
+    "ScreenX": "748",
+    "ScreenY": "576"
+}, {
+    "Number": "58",
+    "Time": "32661",
+    "Duration": "180",
+    "ScreenX": "752",
+    "ScreenY": "600"
+}, {
+    "Number": "59",
+    "Time": "33239",
+    "Duration": "100",
+    "ScreenX": "261",
+    "ScreenY": "170"
+}, {
+    "Number": "60",
+    "Time": "33518",
+    "Duration": "119",
+    "ScreenX": "296",
+    "ScreenY": "229"
+}, {
+    "Number": "61",
+    "Time": "33758",
+    "Duration": "279",
+    "ScreenX": "285",
+    "ScreenY": "233"
+}, {
+    "Number": "62",
+    "Time": "34077",
+    "Duration": "259",
+    "ScreenX": "65",
+    "ScreenY": "222"
+}, {
+    "Number": "63",
+    "Time": "34615",
+    "Duration": "140",
+    "ScreenX": "100",
+    "ScreenY": "604"
+}, {
+    "Number": "64",
+    "Time": "35991",
+    "Duration": "100",
+    "ScreenX": "114",
+    "ScreenY": "624"
+}, {
+    "Number": "65",
+    "Time": "36449",
+    "Duration": "179",
+    "ScreenX": "1134",
+    "ScreenY": "119"
+}, {
+    "Number": "66",
+    "Time": "36649",
+    "Duration": "180",
+    "ScreenX": "1197",
+    "ScreenY": "126"
+}, {
+    "Number": "67",
+    "Time": "37267",
+    "Duration": "100",
+    "ScreenX": "749",
+    "ScreenY": "571"
+}, {
+    "Number": "68",
+    "Time": "37685",
+    "Duration": "140",
+    "ScreenX": "751",
+    "ScreenY": "570"
+}, {
+    "Number": "69",
+    "Time": "37944",
+    "Duration": "160",
+    "ScreenX": "738",
+    "ScreenY": "550"
+}, {
+    "Number": "70",
+    "Time": "38204",
+    "Duration": "120",
+    "ScreenX": "726",
+    "ScreenY": "566"
+}, {
+    "Number": "71",
+    "Time": "38343",
+    "Duration": "100",
+    "ScreenX": "689",
+    "ScreenY": "519"
+}, {
+    "Number": "72",
+    "Time": "38762",
+    "Duration": "219",
+    "ScreenX": "113",
+    "ScreenY": "564"
+}, {
+    "Number": "73",
+    "Time": "39041",
+    "Duration": "100",
+    "ScreenX": "102",
+    "ScreenY": "574"
+}, {
+    "Number": "74",
+    "Time": "40197",
+    "Duration": "140",
+    "ScreenX": "168",
+    "ScreenY": "544"
+}, {
+    "Number": "75",
+    "Time": "42191",
+    "Duration": "140",
+    "ScreenX": "90",
+    "ScreenY": "546"
+}, {
+    "Number": "76",
+    "Time": "42570",
+    "Duration": "100",
+    "ScreenX": "103",
+    "ScreenY": "568"
+}, {
+    "Number": "77",
+    "Time": "43328",
+    "Duration": "160",
+    "ScreenX": "750",
+    "ScreenY": "542"
+}, {
+    "Number": "78",
+    "Time": "43507",
+    "Duration": "100",
+    "ScreenX": "740",
+    "ScreenY": "529"
+}, {
+    "Number": "79",
+    "Time": "43766",
+    "Duration": "160",
+    "ScreenX": "743",
+    "ScreenY": "567"
+}, {
+    "Number": "80",
+    "Time": "44165",
+    "Duration": "160",
+    "ScreenX": "751",
+    "ScreenY": "552"
+}, {
+    "Number": "81",
+    "Time": "44663",
+    "Duration": "120",
+    "ScreenX": "748",
+    "ScreenY": "543"
+}, {
+    "Number": "82",
+    "Time": "44823",
+    "Duration": "160",
+    "ScreenX": "746",
+    "ScreenY": "565"
+}, {
+    "Number": "83",
+    "Time": "45162",
+    "Duration": "160",
+    "ScreenX": "777",
+    "ScreenY": "585"
+}, {
+    "Number": "84",
+    "Time": "45720",
+    "Duration": "120",
+    "ScreenX": "128",
+    "ScreenY": "579"
+}, {
+    "Number": "85",
+    "Time": "46199",
+    "Duration": "538",
+    "ScreenX": "272",
+    "ScreenY": "221"
+}, {
+    "Number": "86",
+    "Time": "46757",
+    "Duration": "120",
+    "ScreenX": "274",
+    "ScreenY": "221"
+}, {
+    "Number": "87",
+    "Time": "47036",
+    "Duration": "239",
+    "ScreenX": "87",
+    "ScreenY": "239"
+}, {
+    "Number": "88",
+    "Time": "47295",
+    "Duration": "279",
+    "ScreenX": "62",
+    "ScreenY": "238"
+}, {
+    "Number": "89",
+    "Time": "47634",
+    "Duration": "140",
+    "ScreenX": "123",
+    "ScreenY": "572"
+}, {
+    "Number": "90",
+    "Time": "48013",
+    "Duration": "159",
+    "ScreenX": "121",
+    "ScreenY": "593"
+}, {
+    "Number": "91",
+    "Time": "48810",
+    "Duration": "120",
+    "ScreenX": "780",
+    "ScreenY": "584"
+}, {
+    "Number": "92",
+    "Time": "49508",
+    "Duration": "100",
+    "ScreenX": "755",
+    "ScreenY": "646"
+}, {
+    "Number": "93",
+    "Time": "50126",
+    "Duration": "100",
+    "ScreenX": "511",
+    "ScreenY": "179"
+}, {
+    "Number": "94",
+    "Time": "50246",
+    "Duration": "239",
+    "ScreenX": "501",
+    "ScreenY": "195"
+}, {
+    "Number": "95",
+    "Time": "50585",
+    "Duration": "140",
+    "ScreenX": "515",
+    "ScreenY": "189"
+}, {
+    "Number": "96",
+    "Time": "51622",
+    "Duration": "100",
+    "ScreenX": "527",
+    "ScreenY": "198"
+}, {
+    "Number": "97",
+    "Time": "51741",
+    "Duration": "120",
+    "ScreenX": "570",
+    "ScreenY": "256"
+}, {
+    "Number": "98",
+    "Time": "52618",
+    "Duration": "199",
+    "ScreenX": "276",
+    "ScreenY": "238"
+}, {
+    "Number": "99",
+    "Time": "52898",
+    "Duration": "199",
+    "ScreenX": "77",
+    "ScreenY": "249"
+}, {
+    "Number": "100",
+    "Time": "53217",
+    "Duration": "758",
+    "ScreenX": "86",
+    "ScreenY": "255"
+}, {
+    "Number": "101",
+    "Time": "54592",
+    "Duration": "159",
+    "ScreenX": "134",
+    "ScreenY": "598"
+}, {
+    "Number": "102",
+    "Time": "55509",
+    "Duration": "100",
+    "ScreenX": "148",
+    "ScreenY": "568"
+}, {
+    "Number": "103",
+    "Time": "59018",
+    "Duration": "159",
+    "ScreenX": "73",
+    "ScreenY": "268"
+}, {
+    "Number": "104",
+    "Time": "59198",
+    "Duration": "239",
+    "ScreenX": "58",
+    "ScreenY": "250"
+}, {
+    "Number": "105",
+    "Time": "60055",
+    "Duration": "120",
+    "ScreenX": "734",
+    "ScreenY": "627"
+}, {
+    "Number": "106",
+    "Time": "61431",
+    "Duration": "140",
+    "ScreenX": "763",
+    "ScreenY": "615"
+}, {
+    "Number": "107",
+    "Time": "61630",
+    "Duration": "140",
+    "ScreenX": "754",
+    "ScreenY": "606"
+}, {
+    "Number": "108",
+    "Time": "61810",
+    "Duration": "259",
+    "ScreenX": "764",
+    "ScreenY": "602"
+}, {
+    "Number": "109",
+    "Time": "63325",
+    "Duration": "160",
+    "ScreenX": "244",
+    "ScreenY": "540"
+}, {
+    "Number": "110",
+    "Time": "64362",
+    "Duration": "100",
+    "ScreenX": "766",
+    "ScreenY": "721"
+}, {
+    "Number": "111",
+    "Time": "64481",
+    "Duration": "100",
+    "ScreenX": "778",
+    "ScreenY": "777"
+}, {
+    "Number": "112",
+    "Time": "65339",
+    "Duration": "219",
+    "ScreenX": "260",
+    "ScreenY": "527"
+}, {
+    "Number": "113",
+    "Time": "66196",
+    "Duration": "120",
+    "ScreenX": "763",
+    "ScreenY": "759"
+}, {
+    "Number": "114",
+    "Time": "67831",
+    "Duration": "239",
+    "ScreenX": "768",
+    "ScreenY": "651"
+}, {
+    "Number": "115",
+    "Time": "68768",
+    "Duration": "100",
+    "ScreenX": "783",
+    "ScreenY": "803"
+}, {
+    "Number": "116",
+    "Time": "68987",
+    "Duration": "100",
+    "ScreenX": "751",
+    "ScreenY": "597"
+}, {
+    "Number": "117",
+    "Time": "70762",
+    "Duration": "100",
+    "ScreenX": "136",
+    "ScreenY": "624"
+}, {
+    "Number": "118",
+    "Time": "72057",
+    "Duration": "180",
+    "ScreenX": "241",
+    "ScreenY": "244"
+}, {
+    "Number": "119",
+    "Time": "72456",
+    "Duration": "179",
+    "ScreenX": "74",
+    "ScreenY": "246"
+}, {
+    "Number": "120",
+    "Time": "72656",
+    "Duration": "199",
+    "ScreenX": "65",
+    "ScreenY": "227"
+}, {
+    "Number": "121",
+    "Time": "72955",
+    "Duration": "100",
+    "ScreenX": "320",
+    "ScreenY": "206"
+}, {
+    "Number": "122",
+    "Time": "75068",
+    "Duration": "100",
+    "ScreenX": "130",
+    "ScreenY": "661"
+}, {
+    "Number": "123",
+    "Time": "75208",
+    "Duration": "159",
+    "ScreenX": "143",
+    "ScreenY": "656"
+}, {
+    "Number": "124",
+    "Time": "75626",
+    "Duration": "139",
+    "ScreenX": "146",
+    "ScreenY": "656"
+}, {
+    "Number": "125",
+    "Time": "76045",
+    "Duration": "140",
+    "ScreenX": "789",
+    "ScreenY": "669"
+}, {
+    "Number": "126",
+    "Time": "77999",
+    "Duration": "100",
+    "ScreenX": "111",
+    "ScreenY": "582"
+}, {
+    "Number": "127",
+    "Time": "78378",
+    "Duration": "159",
+    "ScreenX": "124",
+    "ScreenY": "583"
+}, {
+    "Number": "128",
+    "Time": "79175",
+    "Duration": "180",
+    "ScreenX": "83",
+    "ScreenY": "585"
+}, {
+    "Number": "129",
+    "Time": "79933",
+    "Duration": "180",
+    "ScreenX": "123",
+    "ScreenY": "600"
+}, {
+    "Number": "130",
+    "Time": "80730",
+    "Duration": "140",
+    "ScreenX": "122",
+    "ScreenY": "649"
+}, {
+    "Number": "131",
+    "Time": "81029",
+    "Duration": "140",
+    "ScreenX": "118",
+    "ScreenY": "669"
+}, {
+    "Number": "132",
+    "Time": "84359",
+    "Duration": "100",
+    "ScreenX": "145",
+    "ScreenY": "658"
+}, {
+    "Number": "133",
+    "Time": "84758",
+    "Duration": "140",
+    "ScreenX": "151",
+    "ScreenY": "725"
+}, {
+    "Number": "134",
+    "Time": "85156",
+    "Duration": "160",
+    "ScreenX": "158",
+    "ScreenY": "713"
+}, {
+    "Number": "135",
+    "Time": "85774",
+    "Duration": "160",
+    "ScreenX": "155",
+    "ScreenY": "746"
+}, {
+    "Number": "136",
+    "Time": "86113",
+    "Duration": "100",
+    "ScreenX": "114",
+    "ScreenY": "777"
+}, {
+    "Number": "137",
+    "Time": "86771",
+    "Duration": "120",
+    "ScreenX": "148",
+    "ScreenY": "787"
+}, {
+    "Number": "138",
+    "Time": "88506",
+    "Duration": "100",
+    "ScreenX": "128",
+    "ScreenY": "905"
+}, {
+    "Number": "139",
+    "Time": "98614",
+    "Duration": "120",
+    "ScreenX": "264",
+    "ScreenY": "251"
+}, {
+    "Number": "140",
+    "Time": "104157",
+    "Duration": "120",
+    "ScreenX": "51",
+    "ScreenY": "261"
+}, {
+    "Number": "141",
+    "Time": "104735",
+    "Duration": "159",
+    "ScreenX": "50",
+    "ScreenY": "242"
+}, {
+    "Number": "142",
+    "Time": "105911",
+    "Duration": "120",
+    "ScreenX": "157",
+    "ScreenY": "583"
+}, {
+    "Number": "143",
+    "Time": "108045",
+    "Duration": "299",
+    "ScreenX": "277",
+    "ScreenY": "225"
+}, {
+    "Number": "144",
+    "Time": "108384",
+    "Duration": "897",
+    "ScreenX": "84",
+    "ScreenY": "245"
+}, {
+    "Number": "145",
+    "Time": "109341",
+    "Duration": "179",
+    "ScreenX": "269",
+    "ScreenY": "229"
+}, {
+    "Number": "146",
+    "Time": "109560",
+    "Duration": "100",
+    "ScreenX": "260",
+    "ScreenY": "247"
+}, {
+    "Number": "147",
+    "Time": "110936",
+    "Duration": "100",
+    "ScreenX": "173",
+    "ScreenY": "677"
+}, {
+    "Number": "148",
+    "Time": "112929",
+    "Duration": "239",
+    "ScreenX": "177",
+    "ScreenY": "900"
+}, {
+    "Number": "149",
+    "Time": "115422",
+    "Duration": "279",
+    "ScreenX": "522",
+    "ScreenY": "239"
+}, {
+    "Number": "150",
+    "Time": "115721",
+    "Duration": "100",
+    "ScreenX": "516",
+    "ScreenY": "233"
+}, {
+    "Number": "151",
+    "Time": "115980",
+    "Duration": "219",
+    "ScreenX": "646",
+    "ScreenY": "233"
+}, {
+    "Number": "152",
+    "Time": "116538",
+    "Duration": "100",
+    "ScreenX": "499",
+    "ScreenY": "210"
+}, {
+    "Number": "153",
+    "Time": "116857",
+    "Duration": "180",
+    "ScreenX": "572",
+    "ScreenY": "260"
+}, {
+    "Number": "154",
+    "Time": "117455",
+    "Duration": "100",
+    "ScreenX": "132",
+    "ScreenY": "266"
+}, {
+    "Number": "155",
+    "Time": "117714",
+    "Duration": "219",
+    "ScreenX": "55",
+    "ScreenY": "258"
+}, {
+    "Number": "156",
+    "Time": "117993",
+    "Duration": "140",
+    "ScreenX": "254",
+    "ScreenY": "238"
+}, {
+    "Number": "157",
+    "Time": "118452",
+    "Duration": "179",
+    "ScreenX": "275",
+    "ScreenY": "238"
+}, {
+    "Number": "158",
+    "Time": "118651",
+    "Duration": "479",
+    "ScreenX": "86",
+    "ScreenY": "245"
+}, {
+    "Number": "159",
+    "Time": "119150",
+    "Duration": "180",
+    "ScreenX": "65",
+    "ScreenY": "238"
+}, {
+    "Number": "160",
+    "Time": "119349",
+    "Duration": "2333",
+    "ScreenX": "77",
+    "ScreenY": "238"
+}, {
+    "Number": "161",
+    "Time": "125410",
+    "Duration": "120",
+    "ScreenX": "176",
+    "ScreenY": "933"
+}, {
+    "Number": "162",
+    "Time": "126128",
+    "Duration": "100",
+    "ScreenX": "173",
+    "ScreenY": "930"
+}, {
+    "Number": "163",
+    "Time": "126248",
+    "Duration": "239",
+    "ScreenX": "161",
+    "ScreenY": "920"
+}, {
+    "Number": "164",
+    "Time": "127763",
+    "Duration": "180",
+    "ScreenX": "89",
+    "ScreenY": "849"
+}, {
+    "Number": "165",
+    "Time": "128560",
+    "Duration": "140",
+    "ScreenX": "387",
+    "ScreenY": "841"
+}, {
+    "Number": "166",
+    "Time": "130734",
+    "Duration": "100",
+    "ScreenX": "201",
+    "ScreenY": "589"
+}, {
+    "Number": "167",
+    "Time": "131551",
+    "Duration": "100",
+    "ScreenX": "95",
+    "ScreenY": "574"
+}, {
+    "Number": "168",
+    "Time": "133026",
+    "Duration": "100",
+    "ScreenX": "139",
+    "ScreenY": "703"
+}, {
+    "Number": "169",
+    "Time": "134940",
+    "Duration": "159",
+    "ScreenX": "135",
+    "ScreenY": "697"
+}, {
+    "Number": "170",
+    "Time": "138868",
+    "Duration": "120",
+    "ScreenX": "287",
+    "ScreenY": "697"
+}, {
+    "Number": "171",
+    "Time": "140004",
+    "Duration": "100",
+    "ScreenX": "221",
+    "ScreenY": "688"
+}, {
+    "Number": "172",
+    "Time": "141101",
+    "Duration": "120",
+    "ScreenX": "132",
+    "ScreenY": "647"
+}, {
+    "Number": "173",
+    "Time": "141340",
+    "Duration": "100",
+    "ScreenX": "124",
+    "ScreenY": "618"
+}, {
+    "Number": "174",
+    "Time": "142317",
+    "Duration": "100",
+    "ScreenX": "228",
+    "ScreenY": "678"
+}, {
+    "Number": "175",
+    "Time": "142696",
+    "Duration": "120",
+    "ScreenX": "164",
+    "ScreenY": "634"
+}, {
+    "Number": "176",
+    "Time": "144211",
+    "Duration": "100",
+    "ScreenX": "163",
+    "ScreenY": "680"
+}, {
+    "Number": "177",
+    "Time": "145447",
+    "Duration": "140",
+    "ScreenX": "184",
+    "ScreenY": "692"
+}, {
+    "Number": "178",
+    "Time": "146703",
+    "Duration": "100",
+    "ScreenX": "455",
+    "ScreenY": "858"
+}, {
+    "Number": "179",
+    "Time": "148578",
+    "Duration": "100",
+    "ScreenX": "446",
+    "ScreenY": "695"
+}, {
+    "Number": "180",
+    "Time": "148917",
+    "Duration": "140",
+    "ScreenX": "470",
+    "ScreenY": "681"
+}, {
+    "Number": "181",
+    "Time": "149614",
+    "Duration": "120",
+    "ScreenX": "484",
+    "ScreenY": "703"
+}, {
+    "Number": "182",
+    "Time": "152884",
+    "Duration": "100",
+    "ScreenX": "1019",
+    "ScreenY": "642"
+}, {
+    "Number": "183",
+    "Time": "153203",
+    "Duration": "139",
+    "ScreenX": "794",
+    "ScreenY": "943"
+}, {
+    "Number": "184",
+    "Time": "153562",
+    "Duration": "120",
+    "ScreenX": "780",
+    "ScreenY": "753"
+}, {
+    "Number": "185",
+    "Time": "154280",
+    "Duration": "159",
+    "ScreenX": "789",
+    "ScreenY": "834"
+}, {
+    "Number": "186",
+    "Time": "154898",
+    "Duration": "179",
+    "ScreenX": "789",
+    "ScreenY": "884"
+}, {
+    "Number": "187",
+    "Time": "156453",
+    "Duration": "120",
+    "ScreenX": "61",
+    "ScreenY": "262"
+}, {
+    "Number": "188",
+    "Time": "156592",
+    "Duration": "439",
+    "ScreenX": "60",
+    "ScreenY": "259"
+}, {
+    "Number": "189",
+    "Time": "157051",
+    "Duration": "279",
+    "ScreenX": "58",
+    "ScreenY": "256"
+}, {
+    "Number": "190",
+    "Time": "157350",
+    "Duration": "299",
+    "ScreenX": "65",
+    "ScreenY": "262"
+}, {
+    "Number": "191",
+    "Time": "157669",
+    "Duration": "598",
+    "ScreenX": "60",
+    "ScreenY": "269"
+}, {
+    "Number": "192",
+    "Time": "159304",
+    "Duration": "120",
+    "ScreenX": "145",
+    "ScreenY": "713"
+}, {
+    "Number": "193",
+    "Time": "160361",
+    "Duration": "160",
+    "ScreenX": "259",
+    "ScreenY": "222"
+}, {
+    "Number": "194",
+    "Time": "160879",
+    "Duration": "100",
+    "ScreenX": "294",
+    "ScreenY": "248"
+}, {
+    "Number": "195",
+    "Time": "161138",
+    "Duration": "199",
+    "ScreenX": "56",
+    "ScreenY": "285"
+}, {
+    "Number": "196",
+    "Time": "161358",
+    "Duration": "120",
+    "ScreenX": "62",
+    "ScreenY": "289"
+}, {
+    "Number": "197",
+    "Time": "161497",
+    "Duration": "120",
+    "ScreenX": "73",
+    "ScreenY": "287"
+}, {
+    "Number": "198",
+    "Time": "163032",
+    "Duration": "179",
+    "ScreenX": "75",
+    "ScreenY": "289"
+}, {
+    "Number": "199",
+    "Time": "163232",
+    "Duration": "139",
+    "ScreenX": "74",
+    "ScreenY": "287"
+}, {
+    "Number": "200",
+    "Time": "163391",
+    "Duration": "359",
+    "ScreenX": "63",
+    "ScreenY": "284"
+}, {
+    "Number": "201",
+    "Time": "164428",
+    "Duration": "100",
+    "ScreenX": "165",
+    "ScreenY": "681"
+}, {
+    "Number": "202",
+    "Time": "165225",
+    "Duration": "100",
+    "ScreenX": "156",
+    "ScreenY": "905"
+}, {
+    "Number": "203",
+    "Time": "168754",
+    "Duration": "100",
+    "ScreenX": "87",
+    "ScreenY": "836"
+}, {
+    "Number": "204",
+    "Time": "169273",
+    "Duration": "279",
+    "ScreenX": "66",
+    "ScreenY": "304"
+}, {
+    "Number": "205",
+    "Time": "169632",
+    "Duration": "219",
+    "ScreenX": "101",
+    "ScreenY": "293"
+}, {
+    "Number": "206",
+    "Time": "170030",
+    "Duration": "179",
+    "ScreenX": "259",
+    "ScreenY": "276"
+}, {
+    "Number": "207",
+    "Time": "170908",
+    "Duration": "219",
+    "ScreenX": "116",
+    "ScreenY": "999"
+}, {
+    "Number": "208",
+    "Time": "171546",
+    "Duration": "199",
+    "ScreenX": "300",
+    "ScreenY": "930"
+}, {
+    "Number": "209",
+    "Time": "171785",
+    "Duration": "100",
+    "ScreenX": "160",
+    "ScreenY": "934"
+}, {
+    "Number": "210",
+    "Time": "172004",
+    "Duration": "100",
+    "ScreenX": "165",
+    "ScreenY": "937"
+}, {
+    "Number": "211",
+    "Time": "172443",
+    "Duration": "140",
+    "ScreenX": "217",
+    "ScreenY": "949"
+}, {
+    "Number": "212",
+    "Time": "172602",
+    "Duration": "199",
+    "ScreenX": "205",
+    "ScreenY": "947"
+}, {
+    "Number": "213",
+    "Time": "173679",
+    "Duration": "120",
+    "ScreenX": "116",
+    "ScreenY": "878"
+}, {
+    "Number": "214",
+    "Time": "175752",
+    "Duration": "199",
+    "ScreenX": "195",
+    "ScreenY": "903"
+}, {
+    "Number": "215",
+    "Time": "176989",
+    "Duration": "100",
+    "ScreenX": "220",
+    "ScreenY": "903"
+}, {
+    "Number": "216",
+    "Time": "180059",
+    "Duration": "100",
+    "ScreenX": "244",
+    "ScreenY": "582"
+}, {
+    "Number": "217",
+    "Time": "182093",
+    "Duration": "140",
+    "ScreenX": "165",
+    "ScreenY": "584"
+}, {
+    "Number": "218",
+    "Time": "184326",
+    "Duration": "139",
+    "ScreenX": "761",
+    "ScreenY": "687"
+}, {
+    "Number": "219",
+    "Time": "184904",
+    "Duration": "159",
+    "ScreenX": "765",
+    "ScreenY": "745"
+}, {
+    "Number": "220",
+    "Time": "185542",
+    "Duration": "120",
+    "ScreenX": "770",
+    "ScreenY": "832"
+}, {
+    "Number": "221",
+    "Time": "186040",
+    "Duration": "120",
+    "ScreenX": "92",
+    "ScreenY": "164"
+}, {
+    "Number": "222",
+    "Time": "186240",
+    "Duration": "120",
+    "ScreenX": "66",
+    "ScreenY": "304"
+}, {
+    "Number": "223",
+    "Time": "186379",
+    "Duration": "259",
+    "ScreenX": "68",
+    "ScreenY": "284"
+}, {
+    "Number": "224",
+    "Time": "186678",
+    "Duration": "100",
+    "ScreenX": "321",
+    "ScreenY": "265"
+}, {
+    "Number": "225",
+    "Time": "186897",
+    "Duration": "279",
+    "ScreenX": "290",
+    "ScreenY": "289"
+}, {
+    "Number": "226",
+    "Time": "187197",
+    "Duration": "120",
+    "ScreenX": "278",
+    "ScreenY": "279"
+}, {
+    "Number": "227",
+    "Time": "187456",
+    "Duration": "100",
+    "ScreenX": "268",
+    "ScreenY": "272"
+}, {
+    "Number": "228",
+    "Time": "189749",
+    "Duration": "160",
+    "ScreenX": "761",
+    "ScreenY": "564"
+}, {
+    "Number": "229",
+    "Time": "190068",
+    "Duration": "219",
+    "ScreenX": "745",
+    "ScreenY": "579"
+}, {
+    "Number": "230",
+    "Time": "190446",
+    "Duration": "100",
+    "ScreenX": "742",
+    "ScreenY": "551"
+}, {
+    "Number": "231",
+    "Time": "190765",
+    "Duration": "120",
+    "ScreenX": "768",
+    "ScreenY": "548"
+}, {
+    "Number": "232",
+    "Time": "191523",
+    "Duration": "120",
+    "ScreenX": "747",
+    "ScreenY": "745"
+}, {
+    "Number": "233",
+    "Time": "192360",
+    "Duration": "100",
+    "ScreenX": "767",
+    "ScreenY": "712"
+}, {
+    "Number": "234",
+    "Time": "192639",
+    "Duration": "120",
+    "ScreenX": "309",
+    "ScreenY": "237"
+}, {
+    "Number": "235",
+    "Time": "193018",
+    "Duration": "179",
+    "ScreenX": "294",
+    "ScreenY": "259"
+}, {
+    "Number": "236",
+    "Time": "193736",
+    "Duration": "179",
+    "ScreenX": "778",
+    "ScreenY": "763"
+}, {
+    "Number": "237",
+    "Time": "194912",
+    "Duration": "100",
+    "ScreenX": "807",
+    "ScreenY": "812"
+}, {
+    "Number": "238",
+    "Time": "196009",
+    "Duration": "179",
+    "ScreenX": "808",
+    "ScreenY": "798"
+}, {
+    "Number": "239",
+    "Time": "196308",
+    "Duration": "180",
+    "ScreenX": "801",
+    "ScreenY": "785"
+}, {
+    "Number": "240",
+    "Time": "197205",
+    "Duration": "100",
+    "ScreenX": "786",
+    "ScreenY": "983"
+}, {
+    "Number": "241",
+    "Time": "197544",
+    "Duration": "140",
+    "ScreenX": "766",
+    "ScreenY": "997"
+}, {
+    "Number": "242",
+    "Time": "198242",
+    "Duration": "100",
+    "ScreenX": "115",
+    "ScreenY": "225"
+}, {
+    "Number": "243",
+    "Time": "198362",
+    "Duration": "259",
+    "ScreenX": "68",
+    "ScreenY": "251"
+}, {
+    "Number": "244",
+    "Time": "198720",
+    "Duration": "199",
+    "ScreenX": "81",
+    "ScreenY": "268"
+}, {
+    "Number": "245",
+    "Time": "198940",
+    "Duration": "179",
+    "ScreenX": "165",
+    "ScreenY": "259"
+}, {
+    "Number": "246",
+    "Time": "199199",
+    "Duration": "279",
+    "ScreenX": "294",
+    "ScreenY": "279"
+}, {
+    "Number": "247",
+    "Time": "200575",
+    "Duration": "100",
+    "ScreenX": "774",
+    "ScreenY": "881"
+}, {
+    "Number": "248",
+    "Time": "200714",
+    "Duration": "100",
+    "ScreenX": "768",
+    "ScreenY": "858"
+}, {
+    "Number": "249",
+    "Time": "200874",
+    "Duration": "120",
+    "ScreenX": "798",
+    "ScreenY": "878"
+}, {
+    "Number": "250",
+    "Time": "201372",
+    "Duration": "100",
+    "ScreenX": "804",
+    "ScreenY": "880"
+}, {
+    "Number": "251",
+    "Time": "201970",
+    "Duration": "140",
+    "ScreenX": "749",
+    "ScreenY": "853"
+}, {
+    "Number": "252",
+    "Time": "203107",
+    "Duration": "199",
+    "ScreenX": "79",
+    "ScreenY": "841"
+}, {
+    "Number": "253",
+    "Time": "203486",
+    "Duration": "120",
+    "ScreenX": "72",
+    "ScreenY": "853"
+}, {
+    "Number": "254",
+    "Time": "203824",
+    "Duration": "140",
+    "ScreenX": "87",
+    "ScreenY": "806"
+}, {
+    "Number": "255",
+    "Time": "204602",
+    "Duration": "140",
+    "ScreenX": "85",
+    "ScreenY": "822"
+}, {
+    "Number": "256",
+    "Time": "204762",
+    "Duration": "179",
+    "ScreenX": "98",
+    "ScreenY": "811"
+}, {
+    "Number": "257",
+    "Time": "206974",
+    "Duration": "120",
+    "ScreenX": "33",
+    "ScreenY": "561"
+}, {
+    "Number": "258",
+    "Time": "207593",
+    "Duration": "159",
+    "ScreenX": "80",
+    "ScreenY": "597"
+}, {
+    "Number": "259",
+    "Time": "207872",
+    "Duration": "120",
+    "ScreenX": "143",
+    "ScreenY": "610"
+}, {
+    "Number": "260",
+    "Time": "208869",
+    "Duration": "200",
+    "ScreenX": "136",
+    "ScreenY": "735"
+}, {
+    "Number": "261",
+    "Time": "209467",
+    "Duration": "199",
+    "ScreenX": "160",
+    "ScreenY": "766"
+}, {
+    "Number": "262",
+    "Time": "209846",
+    "Duration": "140",
+    "ScreenX": "167",
+    "ScreenY": "817"
+}, {
+    "Number": "263",
+    "Time": "211500",
+    "Duration": "120",
+    "ScreenX": "137",
+    "ScreenY": "750"
+}, {
+    "Number": "264",
+    "Time": "211859",
+    "Duration": "140",
+    "ScreenX": "134",
+    "ScreenY": "237"
+}, {
+    "Number": "265",
+    "Time": "212059",
+    "Duration": "778",
+    "ScreenX": "72",
+    "ScreenY": "276"
+}, {
+    "Number": "266",
+    "Time": "213275",
+    "Duration": "160",
+    "ScreenX": "99",
+    "ScreenY": "278"
+}, {
+    "Number": "267",
+    "Time": "213873",
+    "Duration": "120",
+    "ScreenX": "141",
+    "ScreenY": "750"
+}, {
+    "Number": "268",
+    "Time": "214571",
+    "Duration": "159",
+    "ScreenX": "116",
+    "ScreenY": "731"
+}, {
+    "Number": "269",
+    "Time": "215887",
+    "Duration": "140",
+    "ScreenX": "445",
+    "ScreenY": "756"
+}, {
+    "Number": "270",
+    "Time": "216684",
+    "Duration": "160",
+    "ScreenX": "466",
+    "ScreenY": "755"
+}, {
+    "Number": "271",
+    "Time": "216884",
+    "Duration": "100",
+    "ScreenX": "184",
+    "ScreenY": "779"
+}, {
+    "Number": "272",
+    "Time": "217342",
+    "Duration": "100",
+    "ScreenX": "417",
+    "ScreenY": "802"
+}, {
+    "Number": "273",
+    "Time": "218498",
+    "Duration": "219",
+    "ScreenX": "83",
+    "ScreenY": "287"
+}, {
+    "Number": "274",
+    "Time": "218738",
+    "Duration": "199",
+    "ScreenX": "77",
+    "ScreenY": "271"
+}, {
+    "Number": "275",
+    "Time": "218957",
+    "Duration": "100",
+    "ScreenX": "76",
+    "ScreenY": "259"
+}, {
+    "Number": "276",
+    "Time": "219356",
+    "Duration": "160",
+    "ScreenX": "270",
+    "ScreenY": "250"
+}, {
+    "Number": "277",
+    "Time": "220293",
+    "Duration": "120",
+    "ScreenX": "134",
+    "ScreenY": "693"
+}, {
+    "Number": "278",
+    "Time": "221449",
+    "Duration": "100",
+    "ScreenX": "135",
+    "ScreenY": "651"
+}, {
+    "Number": "279",
+    "Time": "221688",
+    "Duration": "179",
+    "ScreenX": "122",
+    "ScreenY": "613"
+}, {
+    "Number": "280",
+    "Time": "221988",
+    "Duration": "140",
+    "ScreenX": "138",
+    "ScreenY": "597"
+}, {
+    "Number": "281",
+    "Time": "222366",
+    "Duration": "100",
+    "ScreenX": "489",
+    "ScreenY": "266"
+}, {
+    "Number": "282",
+    "Time": "222486",
+    "Duration": "120",
+    "ScreenX": "492",
+    "ScreenY": "256"
+}, {
+    "Number": "283",
+    "Time": "223523",
+    "Duration": "120",
+    "ScreenX": "634",
+    "ScreenY": "286"
+}, {
+    "Number": "284",
+    "Time": "223722",
+    "Duration": "120",
+    "ScreenX": "570",
+    "ScreenY": "332"
+}, {
+    "Number": "285",
+    "Time": "224639",
+    "Duration": "219",
+    "ScreenX": "296",
+    "ScreenY": "281"
+}, {
+    "Number": "286",
+    "Time": "225337",
+    "Duration": "100",
+    "ScreenX": "487",
+    "ScreenY": "258"
+}, {
+    "Number": "287",
+    "Time": "225915",
+    "Duration": "100",
+    "ScreenX": "293",
+    "ScreenY": "284"
+}, {
+    "Number": "288",
+    "Time": "226035",
+    "Duration": "120",
+    "ScreenX": "288",
+    "ScreenY": "275"
+}, {
+    "Number": "289",
+    "Time": "227052",
+    "Duration": "120",
+    "ScreenX": "90",
+    "ScreenY": "271"
+}, {
+    "Number": "290",
+    "Time": "227191",
+    "Duration": "139",
+    "ScreenX": "54",
+    "ScreenY": "266"
+}, {
+    "Number": "291",
+    "Time": "227450",
+    "Duration": "120",
+    "ScreenX": "102",
+    "ScreenY": "279"
+}, {
+    "Number": "292",
+    "Time": "228427",
+    "Duration": "160",
+    "ScreenX": "163",
+    "ScreenY": "795"
+}, {
+    "Number": "293",
+    "Time": "229225",
+    "Duration": "100",
+    "ScreenX": "783",
+    "ScreenY": "862"
+}, {
+    "Number": "294",
+    "Time": "230202",
+    "Duration": "100",
+    "ScreenX": "755",
+    "ScreenY": "685"
+}, {
+    "Number": "295",
+    "Time": "231498",
+    "Duration": "100",
+    "ScreenX": "758",
+    "ScreenY": "848"
+}, {
+    "Number": "296",
+    "Time": "232215",
+    "Duration": "100",
+    "ScreenX": "800",
+    "ScreenY": "851"
+}, {
+    "Number": "297",
+    "Time": "232694",
+    "Duration": "120",
+    "ScreenX": "819",
+    "ScreenY": "875"
+}, {
+    "Number": "298",
+    "Time": "234468",
+    "Duration": "100",
+    "ScreenX": "825",
+    "ScreenY": "862"
+}, {
+    "Number": "299",
+    "Time": "236083",
+    "Duration": "120",
+    "ScreenX": "152",
+    "ScreenY": "316"
+}, {
+    "Number": "300",
+    "Time": "236303",
+    "Duration": "499",
+    "ScreenX": "89",
+    "ScreenY": "269"
+}, {
+    "Number": "301",
+    "Time": "236821",
+    "Duration": "339",
+    "ScreenX": "108",
+    "ScreenY": "273"
+}, {
+    "Number": "302",
+    "Time": "237200",
+    "Duration": "100",
+    "ScreenX": "257",
+    "ScreenY": "246"
+}, {
+    "Number": "303",
+    "Time": "237359",
+    "Duration": "319",
+    "ScreenX": "260",
+    "ScreenY": "254"
+}, {
+    "Number": "304",
+    "Time": "238874",
+    "Duration": "160",
+    "ScreenX": "90",
+    "ScreenY": "267"
+}, {
+    "Number": "305",
+    "Time": "239074",
+    "Duration": "399",
+    "ScreenX": "87",
+    "ScreenY": "251"
+}, {
+    "Number": "306",
+    "Time": "242224",
+    "Duration": "120",
+    "ScreenX": "822",
+    "ScreenY": "907"
+}, {
+    "Number": "307",
+    "Time": "246770",
+    "Duration": "120",
+    "ScreenX": "503",
+    "ScreenY": "269"
+}, {
+    "Number": "308",
+    "Time": "247109",
+    "Duration": "100",
+    "ScreenX": "645",
+    "ScreenY": "291"
+}, {
+    "Number": "309",
+    "Time": "247368",
+    "Duration": "120",
+    "ScreenX": "650",
+    "ScreenY": "250"
+}, {
+    "Number": "310",
+    "Time": "248066",
+    "Duration": "120",
+    "ScreenX": "641",
+    "ScreenY": "268"
+}, {
+    "Number": "311",
+    "Time": "248823",
+    "Duration": "160",
+    "ScreenX": "289",
+    "ScreenY": "302"
+}, {
+    "Number": "312",
+    "Time": "249162",
+    "Duration": "180",
+    "ScreenX": "73",
+    "ScreenY": "286"
+}, {
+    "Number": "313",
+    "Time": "249402",
+    "Duration": "219",
+    "ScreenX": "121",
+    "ScreenY": "283"
+}, {
+    "Number": "314",
+    "Time": "249760",
+    "Duration": "120",
+    "ScreenX": "315",
+    "ScreenY": "248"
+}, {
+    "Number": "315",
+    "Time": "250139",
+    "Duration": "100",
+    "ScreenX": "343",
+    "ScreenY": "284"
+}, {
+    "Number": "316",
+    "Time": "250359",
+    "Duration": "120",
+    "ScreenX": "183",
+    "ScreenY": "250"
+}, {
+    "Number": "317",
+    "Time": "250598",
+    "Duration": "199",
+    "ScreenX": "86",
+    "ScreenY": "289"
+}, {
+    "Number": "318",
+    "Time": "250837",
+    "Duration": "160",
+    "ScreenX": "104",
+    "ScreenY": "289"
+}, {
+    "Number": "319",
+    "Time": "251635",
+    "Duration": "100",
+    "ScreenX": "280",
+    "ScreenY": "298"
+}, {
+    "Number": "320",
+    "Time": "251754",
+    "Duration": "120",
+    "ScreenX": "292",
+    "ScreenY": "285"
+}, {
+    "Number": "321",
+    "Time": "252711",
+    "Duration": "120",
+    "ScreenX": "159",
+    "ScreenY": "797"
+}, {
+    "Number": "322",
+    "Time": "253489",
+    "Duration": "139",
+    "ScreenX": "175",
+    "ScreenY": "773"
+}, {
+    "Number": "323",
+    "Time": "253648",
+    "Duration": "140",
+    "ScreenX": "173",
+    "ScreenY": "777"
+}, {
+    "Number": "324",
+    "Time": "254426",
+    "Duration": "140",
+    "ScreenX": "106",
+    "ScreenY": "833"
+}, {
+    "Number": "325",
+    "Time": "254964",
+    "Duration": "100",
+    "ScreenX": "133",
+    "ScreenY": "858"
+}, {
+    "Number": "326",
+    "Time": "255323",
+    "Duration": "100",
+    "ScreenX": "770",
+    "ScreenY": "818"
+}, {
+    "Number": "327",
+    "Time": "257875",
+    "Duration": "100",
+    "ScreenX": "779",
+    "ScreenY": "809"
+}, {
+    "Number": "328",
+    "Time": "261304",
+    "Duration": "179",
+    "ScreenX": "641",
+    "ScreenY": "281"
+}, {
+    "Number": "329",
+    "Time": "262979",
+    "Duration": "100",
+    "ScreenX": "656",
+    "ScreenY": "300"
+}, {
+    "Number": "330",
+    "Time": "263158",
+    "Duration": "140",
+    "ScreenX": "635",
+    "ScreenY": "289"
+}, {
+    "Number": "331",
+    "Time": "263477",
+    "Duration": "100",
+    "ScreenX": "501",
+    "ScreenY": "277"
+}, {
+    "Number": "332",
+    "Time": "263757",
+    "Duration": "100",
+    "ScreenX": "498",
+    "ScreenY": "268"
+}, {
+    "Number": "333",
+    "Time": "263896",
+    "Duration": "100",
+    "ScreenX": "502",
+    "ScreenY": "269"
+}, {
+    "Number": "334",
+    "Time": "264654",
+    "Duration": "180",
+    "ScreenX": "486",
+    "ScreenY": "252"
+}, {
+    "Number": "335",
+    "Time": "264993",
+    "Duration": "159",
+    "ScreenX": "468",
+    "ScreenY": "260"
+}, {
+    "Number": "336",
+    "Time": "266269",
+    "Duration": "100",
+    "ScreenX": "521",
+    "ScreenY": "276"
+}, {
+    "Number": "337",
+    "Time": "267963",
+    "Duration": "179",
+    "ScreenX": "517",
+    "ScreenY": "261"
+}, {
+    "Number": "338",
+    "Time": "268342",
+    "Duration": "120",
+    "ScreenX": "491",
+    "ScreenY": "260"
+}, {
+    "Number": "339",
+    "Time": "271771",
+    "Duration": "100",
+    "ScreenX": "71",
+    "ScreenY": "287"
+}, {
+    "Number": "340",
+    "Time": "271951",
+    "Duration": "219",
+    "ScreenX": "457",
+    "ScreenY": "265"
+}, {
+    "Number": "341",
+    "Time": "272370",
+    "Duration": "100",
+    "ScreenX": "503",
+    "ScreenY": "269"
+}, {
+    "Number": "342",
+    "Time": "273745",
+    "Duration": "120",
+    "ScreenX": "287",
+    "ScreenY": "219"
+}, {
+    "Number": "343",
+    "Time": "274483",
+    "Duration": "239",
+    "ScreenX": "304",
+    "ScreenY": "215"
+}, {
+    "Number": "344",
+    "Time": "274742",
+    "Duration": "120",
+    "ScreenX": "318",
+    "ScreenY": "209"
+}, {
+    "Number": "345",
+    "Time": "274921",
+    "Duration": "140",
+    "ScreenX": "112",
+    "ScreenY": "212"
+}, {
+    "Number": "346",
+    "Time": "275280",
+    "Duration": "120",
+    "ScreenX": "64",
+    "ScreenY": "222"
+}, {
+    "Number": "347",
+    "Time": "275679",
+    "Duration": "180",
+    "ScreenX": "302",
+    "ScreenY": "205"
+}, {
+    "Number": "348",
+    "Time": "276078",
+    "Duration": "140",
+    "ScreenX": "113",
+    "ScreenY": "617"
+}, {
+    "Number": "349",
+    "Time": "277075",
+    "Duration": "100",
+    "ScreenX": "115",
+    "ScreenY": "584"
+}, {
+    "Number": "350",
+    "Time": "278052",
+    "Duration": "120",
+    "ScreenX": "288",
+    "ScreenY": "230"
+}, {
+    "Number": "351",
+    "Time": "278191",
+    "Duration": "120",
+    "ScreenX": "277",
+    "ScreenY": "211"
+}, {
+    "Number": "352",
+    "Time": "278391",
+    "Duration": "100",
+    "ScreenX": "60",
+    "ScreenY": "213"
+}, {
+    "Number": "353",
+    "Time": "280045",
+    "Duration": "120",
+    "ScreenX": "759",
+    "ScreenY": "855"
+}, {
+    "Number": "354",
+    "Time": "280305",
+    "Duration": "120",
+    "ScreenX": "721",
+    "ScreenY": "840"
+}, {
+    "Number": "355",
+    "Time": "281242",
+    "Duration": "140",
+    "ScreenX": "741",
+    "ScreenY": "629"
+}, {
+    "Number": "356",
+    "Time": "282857",
+    "Duration": "100",
+    "ScreenX": "746",
+    "ScreenY": "806"
+}, {
+    "Number": "357",
+    "Time": "284013",
+    "Duration": "120",
+    "ScreenX": "555",
+    "ScreenY": "254"
+}, {
+    "Number": "358",
+    "Time": "285369",
+    "Duration": "100",
+    "ScreenX": "311",
+    "ScreenY": "215"
+}, {
+    "Number": "359",
+    "Time": "289855",
+    "Duration": "259",
+    "ScreenX": "506",
+    "ScreenY": "203"
+}, {
+    "Number": "360",
+    "Time": "290194",
+    "Duration": "100",
+    "ScreenX": "503",
+    "ScreenY": "199"
+}, {
+    "Number": "361",
+    "Time": "290971",
+    "Duration": "498",
+    "ScreenX": "70",
+    "ScreenY": "220"
+}, {
+    "Number": "362",
+    "Time": "292028",
+    "Duration": "578",
+    "ScreenX": "96",
+    "ScreenY": "226"
+}, {
+    "Number": "363",
+    "Time": "293543",
+    "Duration": "100",
+    "ScreenX": "58",
+    "ScreenY": "210"
+}, {
+    "Number": "364",
+    "Time": "293663",
+    "Duration": "219",
+    "ScreenX": "92",
+    "ScreenY": "198"
+}, {
+    "Number": "365",
+    "Time": "294042",
+    "Duration": "140",
+    "ScreenX": "304",
+    "ScreenY": "175"
+}, {
+    "Number": "366",
+    "Time": "295158",
+    "Duration": "120",
+    "ScreenX": "493",
+    "ScreenY": "203"
+}, {
+    "Number": "367",
+    "Time": "295736",
+    "Duration": "179",
+    "ScreenX": "282",
+    "ScreenY": "242"
+}, {
+    "Number": "368",
+    "Time": "296334",
+    "Duration": "239",
+    "ScreenX": "82",
+    "ScreenY": "238"
+}, {
+    "Number": "369",
+    "Time": "296953",
+    "Duration": "219",
+    "ScreenX": "278",
+    "ScreenY": "246"
+}, {
+    "Number": "370",
+    "Time": "297411",
+    "Duration": "120",
+    "ScreenX": "606",
+    "ScreenY": "270"
+}, {
+    "Number": "371",
+    "Time": "298029",
+    "Duration": "100",
+    "ScreenX": "650",
+    "ScreenY": "236"
+}, {
+    "Number": "372",
+    "Time": "298388",
+    "Duration": "140",
+    "ScreenX": "644",
+    "ScreenY": "243"
+}, {
+    "Number": "373",
+    "Time": "299026",
+    "Duration": "139",
+    "ScreenX": "251",
+    "ScreenY": "239"
+}, {
+    "Number": "374",
+    "Time": "299185",
+    "Duration": "100",
+    "ScreenX": "273",
+    "ScreenY": "227"
+}, {
+    "Number": "375",
+    "Time": "300202",
+    "Duration": "100",
+    "ScreenX": "93",
+    "ScreenY": "243"
+}, {
+    "Number": "376",
+    "Time": "300382",
+    "Duration": "100",
+    "ScreenX": "132",
+    "ScreenY": "216"
+}, {
+    "Number": "377",
+    "Time": "300860",
+    "Duration": "179",
+    "ScreenX": "90",
+    "ScreenY": "207"
+}, {
+    "Number": "378",
+    "Time": "301060",
+    "Duration": "179",
+    "ScreenX": "78",
+    "ScreenY": "198"
+}, {
+    "Number": "379",
+    "Time": "301379",
+    "Duration": "140",
+    "ScreenX": "302",
+    "ScreenY": "203"
+}, {
+    "Number": "380",
+    "Time": "301558",
+    "Duration": "120",
+    "ScreenX": "303",
+    "ScreenY": "202"
+}, {
+    "Number": "381",
+    "Time": "301737",
+    "Duration": "120",
+    "ScreenX": "296",
+    "ScreenY": "200"
+}, {
+    "Number": "382",
+    "Time": "301997",
+    "Duration": "120",
+    "ScreenX": "492",
+    "ScreenY": "201"
+}, {
+    "Number": "383",
+    "Time": "302276",
+    "Duration": "100",
+    "ScreenX": "495",
+    "ScreenY": "219"
+}, {
+    "Number": "384",
+    "Time": "302734",
+    "Duration": "140",
+    "ScreenX": "478",
+    "ScreenY": "271"
+}, {
+    "Number": "385",
+    "Time": "303472",
+    "Duration": "100",
+    "ScreenX": "91",
+    "ScreenY": "243"
+}, {
+    "Number": "386",
+    "Time": "303592",
+    "Duration": "219",
+    "ScreenX": "82",
+    "ScreenY": "236"
+}, {
+    "Number": "387",
+    "Time": "303871",
+    "Duration": "100",
+    "ScreenX": "287",
+    "ScreenY": "233"
+}, {
+    "Number": "388",
+    "Time": "304389",
+    "Duration": "219",
+    "ScreenX": "270",
+    "ScreenY": "236"
+}, {
+    "Number": "389",
+    "Time": "304648",
+    "Duration": "120",
+    "ScreenX": "266",
+    "ScreenY": "238"
+}, {
+    "Number": "390",
+    "Time": "305825",
+    "Duration": "140",
+    "ScreenX": "264",
+    "ScreenY": "225"
+}, {
+    "Number": "391",
+    "Time": "305984",
+    "Duration": "120",
+    "ScreenX": "42",
+    "ScreenY": "214"
+}, {
+    "Number": "392",
+    "Time": "306124",
+    "Duration": "379",
+    "ScreenX": "62",
+    "ScreenY": "220"
+}, {
+    "Number": "393",
+    "Time": "306522",
+    "Duration": "459",
+    "ScreenX": "119",
+    "ScreenY": "214"
+}, {
+    "Number": "394",
+    "Time": "307001",
+    "Duration": "159",
+    "ScreenX": "61",
+    "ScreenY": "237"
+}, {
+    "Number": "395",
+    "Time": "307659",
+    "Duration": "120",
+    "ScreenX": "97",
+    "ScreenY": "218"
+}, {
+    "Number": "396",
+    "Time": "307799",
+    "Duration": "239",
+    "ScreenX": "138",
+    "ScreenY": "212"
+}, {
+    "Number": "397",
+    "Time": "308078",
+    "Duration": "339",
+    "ScreenX": "264",
+    "ScreenY": "219"
+}, {
+    "Number": "398",
+    "Time": "308456",
+    "Duration": "299",
+    "ScreenX": "75",
+    "ScreenY": "222"
+}, {
+    "Number": "399",
+    "Time": "309932",
+    "Duration": "140",
+    "ScreenX": "230",
+    "ScreenY": "636"
+}, {
+    "Number": "400",
+    "Time": "310988",
+    "Duration": "199",
+    "ScreenX": "63",
+    "ScreenY": "223"
+}, {
+    "Number": "401",
+    "Time": "311228",
+    "Duration": "459",
+    "ScreenX": "62",
+    "ScreenY": "226"
+}, {
+    "Number": "402",
+    "Time": "311706",
+    "Duration": "100",
+    "ScreenX": "54",
+    "ScreenY": "218"
+}, {
+    "Number": "403",
+    "Time": "312823",
+    "Duration": "160",
+    "ScreenX": "214",
+    "ScreenY": "632"
+}, {
+    "Number": "404",
+    "Time": "316112",
+    "Duration": "100",
+    "ScreenX": "187",
+    "ScreenY": "735"
+}, {
+    "Number": "405",
+    "Time": "316990",
+    "Duration": "100",
+    "ScreenX": "246",
+    "ScreenY": "745"
+}, {
+    "Number": "406",
+    "Time": "318306",
+    "Duration": "100",
+    "ScreenX": "452",
+    "ScreenY": "796"
+}, {
+    "Number": "407",
+    "Time": "319880",
+    "Duration": "379",
+    "ScreenX": "55",
+    "ScreenY": "248"
+}, {
+    "Number": "408",
+    "Time": "320279",
+    "Duration": "120",
+    "ScreenX": "92",
+    "ScreenY": "214"
+}, {
+    "Number": "409",
+    "Time": "320618",
+    "Duration": "140",
+    "ScreenX": "270",
+    "ScreenY": "235"
+}, {
+    "Number": "410",
+    "Time": "322034",
+    "Duration": "239",
+    "ScreenX": "94",
+    "ScreenY": "223"
+}, {
+    "Number": "411",
+    "Time": "323429",
+    "Duration": "120",
+    "ScreenX": "256",
+    "ScreenY": "228"
+}, {
+    "Number": "412",
+    "Time": "323589",
+    "Duration": "199",
+    "ScreenX": "56",
+    "ScreenY": "226"
+}, {
+    "Number": "413",
+    "Time": "325363",
+    "Duration": "120",
+    "ScreenX": "772",
+    "ScreenY": "686"
+}, {
+    "Number": "414",
+    "Time": "329152",
+    "Duration": "100",
+    "ScreenX": "796",
+    "ScreenY": "779"
+}, {
+    "Number": "415",
+    "Time": "330447",
+    "Duration": "180",
+    "ScreenX": "116",
+    "ScreenY": "263"
+}, {
+    "Number": "416",
+    "Time": "330647",
+    "Duration": "199",
+    "ScreenX": "71",
+    "ScreenY": "258"
+}, {
+    "Number": "417",
+    "Time": "331504",
+    "Duration": "120",
+    "ScreenX": "83",
+    "ScreenY": "242"
+}, {
+    "Number": "418",
+    "Time": "331943",
+    "Duration": "140",
+    "ScreenX": "805",
+    "ScreenY": "854"
+}, {
+    "Number": "419",
+    "Time": "332242",
+    "Duration": "120",
+    "ScreenX": "785",
+    "ScreenY": "875"
+}, {
+    "Number": "420",
+    "Time": "332401",
+    "Duration": "159",
+    "ScreenX": "787",
+    "ScreenY": "879"
+}, {
+    "Number": "421",
+    "Time": "338243",
+    "Duration": "199",
+    "ScreenX": "815",
+    "ScreenY": "855"
+}, {
+    "Number": "422",
+    "Time": "339140",
+    "Duration": "100",
+    "ScreenX": "781",
+    "ScreenY": "863"
+}, {
+    "Number": "423",
+    "Time": "339918",
+    "Duration": "119",
+    "ScreenX": "809",
+    "ScreenY": "882"
+}, {
+    "Number": "424",
+    "Time": "340217",
+    "Duration": "120",
+    "ScreenX": "801",
+    "ScreenY": "889"
+}, {
+    "Number": "425",
+    "Time": "340635",
+    "Duration": "259",
+    "ScreenX": "805",
+    "ScreenY": "899"
+}, {
+    "Number": "426",
+    "Time": "343227",
+    "Duration": "139",
+    "ScreenX": "82",
+    "ScreenY": "240"
+}, {
+    "Number": "427",
+    "Time": "343387",
+    "Duration": "120",
+    "ScreenX": "85",
+    "ScreenY": "221"
+}, {
+    "Number": "428",
+    "Time": "345121",
+    "Duration": "160",
+    "ScreenX": "555",
+    "ScreenY": "284"
+}, {
+    "Number": "429",
+    "Time": "346019",
+    "Duration": "120",
+    "ScreenX": "56",
+    "ScreenY": "259"
+}, {
+    "Number": "430",
+    "Time": "346298",
+    "Duration": "180",
+    "ScreenX": "313",
+    "ScreenY": "269"
+}, {
+    "Number": "431",
+    "Time": "346557",
+    "Duration": "140",
+    "ScreenX": "326",
+    "ScreenY": "259"
+}, {
+    "Number": "432",
+    "Time": "349886",
+    "Duration": "239",
+    "ScreenX": "802",
+    "ScreenY": "909"
+}, {
+    "Number": "433",
+    "Time": "350524",
+    "Duration": "120",
+    "ScreenX": "833",
+    "ScreenY": "925"
+}, {
+    "Number": "434",
+    "Time": "352100",
+    "Duration": "120",
+    "ScreenX": "145",
+    "ScreenY": "929"
+}, {
+    "Number": "435",
+    "Time": "354452",
+    "Duration": "179",
+    "ScreenX": "815",
+    "ScreenY": "889"
+}, {
+    "Number": "436",
+    "Time": "355070",
+    "Duration": "100",
+    "ScreenX": "803",
+    "ScreenY": "889"
+}, {
+    "Number": "437",
+    "Time": "355409",
+    "Duration": "160",
+    "ScreenX": "768",
+    "ScreenY": "920"
+}, {
+    "Number": "438",
+    "Time": "355808",
+    "Duration": "179",
+    "ScreenX": "837",
+    "ScreenY": "935"
+}, {
+    "Number": "439",
+    "Time": "356147",
+    "Duration": "100",
+    "ScreenX": "774",
+    "ScreenY": "961"
+}, {
+    "Number": "440",
+    "Time": "357822",
+    "Duration": "339",
+    "ScreenX": "267",
+    "ScreenY": "225"
+}, {
+    "Number": "441",
+    "Time": "358220",
+    "Duration": "140",
+    "ScreenX": "271",
+    "ScreenY": "228"
+}, {
+    "Number": "442",
+    "Time": "358679",
+    "Duration": "100",
+    "ScreenX": "661",
+    "ScreenY": "222"
+}, {
+    "Number": "443",
+    "Time": "359516",
+    "Duration": "239",
+    "ScreenX": "322",
+    "ScreenY": "269"
+}, {
+    "Number": "444",
+    "Time": "360015",
+    "Duration": "120",
+    "ScreenX": "94",
+    "ScreenY": "274"
+}, {
+    "Number": "445",
+    "Time": "360872",
+    "Duration": "140",
+    "ScreenX": "374",
+    "ScreenY": "227"
+}, {
+    "Number": "446",
+    "Time": "361271",
+    "Duration": "120",
+    "ScreenX": "741",
+    "ScreenY": "926"
+}, {
+    "Number": "447",
+    "Time": "361410",
+    "Duration": "199",
+    "ScreenX": "790",
+    "ScreenY": "981"
+}, {
+    "Number": "448",
+    "Time": "361630",
+    "Duration": "100",
+    "ScreenX": "787",
+    "ScreenY": "963"
+}, {
+    "Number": "449",
+    "Time": "362228",
+    "Duration": "279",
+    "ScreenX": "775",
+    "ScreenY": "897"
+}, {
+    "Number": "450",
+    "Time": "367850",
+    "Duration": "100",
+    "ScreenX": "824",
+    "ScreenY": "910"
+}, {
+    "Number": "451",
+    "Time": "368548",
+    "Duration": "120",
+    "ScreenX": "824",
+    "ScreenY": "885"
+}, {
+    "Number": "452",
+    "Time": "372256",
+    "Duration": "120",
+    "ScreenX": "107",
+    "ScreenY": "263"
+}, {
+    "Number": "453",
+    "Time": "376942",
+    "Duration": "140",
+    "ScreenX": "158",
+    "ScreenY": "921"
+}, {
+    "Number": "454",
+    "Time": "378038",
+    "Duration": "120",
+    "ScreenX": "301",
+    "ScreenY": "290"
+}, {
+    "Number": "455",
+    "Time": "379992",
+    "Duration": "100",
+    "ScreenX": "814",
+    "ScreenY": "887"
+}, {
+    "Number": "456",
+    "Time": "381507",
+    "Duration": "100",
+    "ScreenX": "810",
+    "ScreenY": "935"
+}, {
+    "Number": "457",
+    "Time": "381667",
+    "Duration": "100",
+    "ScreenX": "816",
+    "ScreenY": "947"
+}, {
+    "Number": "458",
+    "Time": "383960",
+    "Duration": "100",
+    "ScreenX": "344",
+    "ScreenY": "281"
+}, {
+    "Number": "459",
+    "Time": "384538",
+    "Duration": "100",
+    "ScreenX": "603",
+    "ScreenY": "310"
+}, {
+    "Number": "460",
+    "Time": "384757",
+    "Duration": "120",
+    "ScreenX": "619",
+    "ScreenY": "279"
+}, {
+    "Number": "461",
+    "Time": "385216",
+    "Duration": "119",
+    "ScreenX": "532",
+    "ScreenY": "282"
+}, {
+    "Number": "462",
+    "Time": "386093",
+    "Duration": "100",
+    "ScreenX": "111",
+    "ScreenY": "269"
+}, {
+    "Number": "463",
+    "Time": "387568",
+    "Duration": "100",
+    "ScreenX": "486",
+    "ScreenY": "264"
+}, {
+    "Number": "464",
+    "Time": "389522",
+    "Duration": "179",
+    "ScreenX": "156",
+    "ScreenY": "933"
+}, {
+    "Number": "465",
+    "Time": "389861",
+    "Duration": "120",
+    "ScreenX": "178",
+    "ScreenY": "936"
+}, {
+    "Number": "466",
+    "Time": "392513",
+    "Duration": "100",
+    "ScreenX": "104",
+    "ScreenY": "271"
+}, {
+    "Number": "467",
+    "Time": "394487",
+    "Duration": "100",
+    "ScreenX": "806",
+    "ScreenY": "851"
+}, {
+    "Number": "468",
+    "Time": "394786",
+    "Duration": "100",
+    "ScreenX": "820",
+    "ScreenY": "888"
+}, {
+    "Number": "469",
+    "Time": "395145",
+    "Duration": "100",
+    "ScreenX": "815",
+    "ScreenY": "897"
+}, {
+    "Number": "470",
+    "Time": "395683",
+    "Duration": "100",
+    "ScreenX": "830",
+    "ScreenY": "891"
+}, {
+    "Number": "471",
+    "Time": "395942",
+    "Duration": "120",
+    "ScreenX": "785",
+    "ScreenY": "871"
+}, {
+    "Number": "472",
+    "Time": "396241",
+    "Duration": "120",
+    "ScreenX": "793",
+    "ScreenY": "868"
+}, {
+    "Number": "473",
+    "Time": "401465",
+    "Duration": "120",
+    "ScreenX": "339",
+    "ScreenY": "293"
+}, {
+    "Number": "474",
+    "Time": "401604",
+    "Duration": "120",
+    "ScreenX": "327",
+    "ScreenY": "294"
+}, {
+    "Number": "475",
+    "Time": "401764",
+    "Duration": "120",
+    "ScreenX": "320",
+    "ScreenY": "304"
+}, {
+    "Number": "476",
+    "Time": "402003",
+    "Duration": "139",
+    "ScreenX": "326",
+    "ScreenY": "238"
+}, {
+    "Number": "477",
+    "Time": "402242",
+    "Duration": "160",
+    "ScreenX": "315",
+    "ScreenY": "231"
+}, {
+    "Number": "478",
+    "Time": "402442",
+    "Duration": "100",
+    "ScreenX": "313",
+    "ScreenY": "225"
+}, {
+    "Number": "479",
+    "Time": "402601",
+    "Duration": "179",
+    "ScreenX": "131",
+    "ScreenY": "227"
+}, {
+    "Number": "480",
+    "Time": "404116",
+    "Duration": "100",
+    "ScreenX": "196",
+    "ScreenY": "914"
+}, {
+    "Number": "481",
+    "Time": "406748",
+    "Duration": "120",
+    "ScreenX": "77",
+    "ScreenY": "268"
+}, {
+    "Number": "482",
+    "Time": "406888",
+    "Duration": "319",
+    "ScreenX": "92",
+    "ScreenY": "242"
+}, {
+    "Number": "483",
+    "Time": "407446",
+    "Duration": "179",
+    "ScreenX": "306",
+    "ScreenY": "220"
+}, {
+    "Number": "484",
+    "Time": "407645",
+    "Duration": "120",
+    "ScreenX": "346",
+    "ScreenY": "242"
+}, {
+    "Number": "485",
+    "Time": "408244",
+    "Duration": "120",
+    "ScreenX": "833",
+    "ScreenY": "907"
+}, {
+    "Number": "486",
+    "Time": "409121",
+    "Duration": "100",
+    "ScreenX": "834",
+    "ScreenY": "884"
+}, {
+    "Number": "487",
+    "Time": "409400",
+    "Duration": "100",
+    "ScreenX": "821",
+    "ScreenY": "907"
+}, {
+    "Number": "488",
+    "Time": "409739",
+    "Duration": "120",
+    "ScreenX": "833",
+    "ScreenY": "928"
+}, {
+    "Number": "489",
+    "Time": "413088",
+    "Duration": "100",
+    "ScreenX": "506",
+    "ScreenY": "261"
+}, {
+    "Number": "490",
+    "Time": "413886",
+    "Duration": "120",
+    "ScreenX": "126",
+    "ScreenY": "228"
+}, {
+    "Number": "491",
+    "Time": "414105",
+    "Duration": "179",
+    "ScreenX": "124",
+    "ScreenY": "233"
+}, {
+    "Number": "492",
+    "Time": "414384",
+    "Duration": "279",
+    "ScreenX": "340",
+    "ScreenY": "240"
+}, {
+    "Number": "493",
+    "Time": "415002",
+    "Duration": "160",
+    "ScreenX": "119",
+    "ScreenY": "237"
+}, {
+    "Number": "494",
+    "Time": "416697",
+    "Duration": "160",
+    "ScreenX": "294",
+    "ScreenY": "902"
+}, {
+    "Number": "495",
+    "Time": "417036",
+    "Duration": "120",
+    "ScreenX": "278",
+    "ScreenY": "872"
+}, {
+    "Number": "496",
+    "Time": "417833",
+    "Duration": "120",
+    "ScreenX": "89",
+    "ScreenY": "820"
+}, {
+    "Number": "497",
+    "Time": "418571",
+    "Duration": "120",
+    "ScreenX": "155",
+    "ScreenY": "810"
+}, {
+    "Number": "498",
+    "Time": "418970",
+    "Duration": "139",
+    "ScreenX": "122",
+    "ScreenY": "771"
+}, {
+    "Number": "499",
+    "Time": "422359",
+    "Duration": "100",
+    "ScreenX": "100",
+    "ScreenY": "239"
+}, {
+    "Number": "500",
+    "Time": "422519",
+    "Duration": "120",
+    "ScreenX": "105",
+    "ScreenY": "290"
+}, {
+    "Number": "501",
+    "Time": "423256",
+    "Duration": "100",
+    "ScreenX": "112",
+    "ScreenY": "242"
+}, {
+    "Number": "502",
+    "Time": "423396",
+    "Duration": "199",
+    "ScreenX": "284",
+    "ScreenY": "240"
+}, {
+    "Number": "503",
+    "Time": "423655",
+    "Duration": "120",
+    "ScreenX": "311",
+    "ScreenY": "243"
+}, {
+    "Number": "504",
+    "Time": "423815",
+    "Duration": "199",
+    "ScreenX": "300",
+    "ScreenY": "236"
+}, {
+    "Number": "505",
+    "Time": "424213",
+    "Duration": "140",
+    "ScreenX": "789",
+    "ScreenY": "900"
+}, {
+    "Number": "506",
+    "Time": "425410",
+    "Duration": "139",
+    "ScreenX": "776",
+    "ScreenY": "817"
+}, {
+    "Number": "507",
+    "Time": "426506",
+    "Duration": "140",
+    "ScreenX": "817",
+    "ScreenY": "921"
+}, {
+    "Number": "508",
+    "Time": "430892",
+    "Duration": "140",
+    "ScreenX": "806",
+    "ScreenY": "875"
+}, {
+    "Number": "509",
+    "Time": "431929",
+    "Duration": "100",
+    "ScreenX": "804",
+    "ScreenY": "927"
+}, {
+    "Number": "510",
+    "Time": "434541",
+    "Duration": "100",
+    "ScreenX": "280",
+    "ScreenY": "867"
+}, {
+    "Number": "511",
+    "Time": "435737",
+    "Duration": "259",
+    "ScreenX": "55",
+    "ScreenY": "249"
+}, {
+    "Number": "512",
+    "Time": "436535",
+    "Duration": "120",
+    "ScreenX": "593",
+    "ScreenY": "196"
+}, {
+    "Number": "513",
+    "Time": "438269",
+    "Duration": "120",
+    "ScreenX": "148",
+    "ScreenY": "255"
+}, {
+    "Number": "514",
+    "Time": "438449",
+    "Duration": "100",
+    "ScreenX": "222",
+    "ScreenY": "275"
+}, {
+    "Number": "515",
+    "Time": "439167",
+    "Duration": "160",
+    "ScreenX": "157",
+    "ScreenY": "833"
+}, {
+    "Number": "516",
+    "Time": "439765",
+    "Duration": "140",
+    "ScreenX": "160",
+    "ScreenY": "669"
+}, {
+    "Number": "517",
+    "Time": "443034",
+    "Duration": "100",
+    "ScreenX": "128",
+    "ScreenY": "818"
+}, {
+    "Number": "518",
+    "Time": "445965",
+    "Duration": "179",
+    "ScreenX": "242",
+    "ScreenY": "232"
+}, {
+    "Number": "519",
+    "Time": "446205",
+    "Duration": "100",
+    "ScreenX": "244",
+    "ScreenY": "265"
+}, {
+    "Number": "520",
+    "Time": "448517",
+    "Duration": "160",
+    "ScreenX": "481",
+    "ScreenY": "216"
+}, {
+    "Number": "521",
+    "Time": "449255",
+    "Duration": "179",
+    "ScreenX": "85",
+    "ScreenY": "231"
+}, {
+    "Number": "522",
+    "Time": "450052",
+    "Duration": "100",
+    "ScreenX": "296",
+    "ScreenY": "250"
+}, {
+    "Number": "523",
+    "Time": "454419",
+    "Duration": "100",
+    "ScreenX": "710",
+    "ScreenY": "555"
+}, {
+    "Number": "524",
+    "Time": "455137",
+    "Duration": "140",
+    "ScreenX": "752",
+    "ScreenY": "596"
+}, {
+    "Number": "525",
+    "Time": "455396",
+    "Duration": "199",
+    "ScreenX": "762",
+    "ScreenY": "603"
+}, {
+    "Number": "526",
+    "Time": "460280",
+    "Duration": "179",
+    "ScreenX": "94",
+    "ScreenY": "229"
+}, {
+    "Number": "527",
+    "Time": "460898",
+    "Duration": "120",
+    "ScreenX": "497",
+    "ScreenY": "290"
+}, {
+    "Number": "528",
+    "Time": "461138",
+    "Duration": "239",
+    "ScreenX": "78",
+    "ScreenY": "260"
+}, {
+    "Number": "529",
+    "Time": "462015",
+    "Duration": "139",
+    "ScreenX": "777",
+    "ScreenY": "736"
+}, {
+    "Number": "530",
+    "Time": "462414",
+    "Duration": "100",
+    "ScreenX": "776",
+    "ScreenY": "600"
+}, {
+    "Number": "531",
+    "Time": "463670",
+    "Duration": "100",
+    "ScreenX": "765",
+    "ScreenY": "628"
+}, {
+    "Number": "532",
+    "Time": "470269",
+    "Duration": "100",
+    "ScreenX": "551",
+    "ScreenY": "302"
+}, {
+    "Number": "533",
+    "Time": "474456",
+    "Duration": "100",
+    "ScreenX": "291",
+    "ScreenY": "289"
+}, {
+    "Number": "534",
+    "Time": "475054",
+    "Duration": "100",
+    "ScreenX": "479",
+    "ScreenY": "251"
+}, {
+    "Number": "535",
+    "Time": "476828",
+    "Duration": "120",
+    "ScreenX": "146",
+    "ScreenY": "181"
+}, {
+    "Number": "536",
+    "Time": "479062",
+    "Duration": "140",
+    "ScreenX": "218",
+    "ScreenY": "546"
+}, {
+    "Number": "537",
+    "Time": "479261",
+    "Duration": "140",
+    "ScreenX": "182",
+    "ScreenY": "605"
+}, {
+    "Number": "538",
+    "Time": "479719",
+    "Duration": "100",
+    "ScreenX": "180",
+    "ScreenY": "626"
+}, {
+    "Number": "539",
+    "Time": "482451",
+    "Duration": "100",
+    "ScreenX": "166",
+    "ScreenY": "800"
+}, {
+    "Number": "540",
+    "Time": "482870",
+    "Duration": "120",
+    "ScreenX": "164",
+    "ScreenY": "765"
+}, {
+    "Number": "541",
+    "Time": "483268",
+    "Duration": "100",
+    "ScreenX": "154",
+    "ScreenY": "821"
+}, {
+    "Number": "542",
+    "Time": "484843",
+    "Duration": "179",
+    "ScreenX": "129",
+    "ScreenY": "853"
+}, {
+    "Number": "543",
+    "Time": "485960",
+    "Duration": "120",
+    "ScreenX": "122",
+    "ScreenY": "819"
+}, {
+    "Number": "544",
+    "Time": "489469",
+    "Duration": "100",
+    "ScreenX": "259",
+    "ScreenY": "261"
+}, {
+    "Number": "545",
+    "Time": "489728",
+    "Duration": "100",
+    "ScreenX": "106",
+    "ScreenY": "223"
+}, {
+    "Number": "546",
+    "Time": "489848",
+    "Duration": "100",
+    "ScreenX": "96",
+    "ScreenY": "223"
+}, {
+    "Number": "547",
+    "Time": "489967",
+    "Duration": "259",
+    "ScreenX": "132",
+    "ScreenY": "217"
+}, {
+    "Number": "548",
+    "Time": "490246",
+    "Duration": "319",
+    "ScreenX": "133",
+    "ScreenY": "220"
+}, {
+    "Number": "549",
+    "Time": "492838",
+    "Duration": "140",
+    "ScreenX": "114",
+    "ScreenY": "919"
+}, {
+    "Number": "550",
+    "Time": "493656",
+    "Duration": "219",
+    "ScreenX": "266",
+    "ScreenY": "196"
+}, {
+    "Number": "551",
+    "Time": "494114",
+    "Duration": "199",
+    "ScreenX": "78",
+    "ScreenY": "224"
+}, {
+    "Number": "552",
+    "Time": "494334",
+    "Duration": "199",
+    "ScreenX": "111",
+    "ScreenY": "221"
+}, {
+    "Number": "553",
+    "Time": "494593",
+    "Duration": "279",
+    "ScreenX": "260",
+    "ScreenY": "209"
+}, {
+    "Number": "554",
+    "Time": "495510",
+    "Duration": "139",
+    "ScreenX": "812",
+    "ScreenY": "847"
+}, {
+    "Number": "555",
+    "Time": "495869",
+    "Duration": "259",
+    "ScreenX": "762",
+    "ScreenY": "919"
+}, {
+    "Number": "556",
+    "Time": "496228",
+    "Duration": "100",
+    "ScreenX": "766",
+    "ScreenY": "910"
+}, {
+    "Number": "557",
+    "Time": "496367",
+    "Duration": "120",
+    "ScreenX": "761",
+    "ScreenY": "909"
+}, {
+    "Number": "558",
+    "Time": "496846",
+    "Duration": "239",
+    "ScreenX": "728",
+    "ScreenY": "900"
+}, {
+    "Number": "559",
+    "Time": "497105",
+    "Duration": "180",
+    "ScreenX": "727",
+    "ScreenY": "886"
+}, {
+    "Number": "560",
+    "Time": "497583",
+    "Duration": "100",
+    "ScreenX": "795",
+    "ScreenY": "930"
+}, {
+    "Number": "561",
+    "Time": "497723",
+    "Duration": "100",
+    "ScreenX": "783",
+    "ScreenY": "918"
+}, {
+    "Number": "562",
+    "Time": "497843",
+    "Duration": "179",
+    "ScreenX": "804",
+    "ScreenY": "942"
+}, {
+    "Number": "563",
+    "Time": "498102",
+    "Duration": "120",
+    "ScreenX": "831",
+    "ScreenY": "939"
+}, {
+    "Number": "564",
+    "Time": "498241",
+    "Duration": "179",
+    "ScreenX": "837",
+    "ScreenY": "925"
+}, {
+    "Number": "565",
+    "Time": "499338",
+    "Duration": "100",
+    "ScreenX": "824",
+    "ScreenY": "923"
+}, {
+    "Number": "566",
+    "Time": "505379",
+    "Duration": "120",
+    "ScreenX": "786",
+    "ScreenY": "862"
+}, {
+    "Number": "567",
+    "Time": "509287",
+    "Duration": "100",
+    "ScreenX": "837",
+    "ScreenY": "922"
+}, {
+    "Number": "568",
+    "Time": "515487",
+    "Duration": "140",
+    "ScreenX": "265",
+    "ScreenY": "208"
+}, {
+    "Number": "569",
+    "Time": "515647",
+    "Duration": "160",
+    "ScreenX": "273",
+    "ScreenY": "218"
+}, {
+    "Number": "570",
+    "Time": "515946",
+    "Duration": "120",
+    "ScreenX": "467",
+    "ScreenY": "166"
+}, {
+    "Number": "571",
+    "Time": "516384",
+    "Duration": "219",
+    "ScreenX": "99",
+    "ScreenY": "192"
+}, {
+    "Number": "572",
+    "Time": "516823",
+    "Duration": "100",
+    "ScreenX": "251",
+    "ScreenY": "213"
+}, {
+    "Number": "573",
+    "Time": "517222",
+    "Duration": "159",
+    "ScreenX": "529",
+    "ScreenY": "205"
+}, {
+    "Number": "574",
+    "Time": "517421",
+    "Duration": "180",
+    "ScreenX": "519",
+    "ScreenY": "205"
+}, {
+    "Number": "575",
+    "Time": "518777",
+    "Duration": "239",
+    "ScreenX": "120",
+    "ScreenY": "214"
+}, {
+    "Number": "576",
+    "Time": "519096",
+    "Duration": "100",
+    "ScreenX": "288",
+    "ScreenY": "225"
+}, {
+    "Number": "577",
+    "Time": "520512",
+    "Duration": "100",
+    "ScreenX": "98",
+    "ScreenY": "249"
+}, {
+    "Number": "578",
+    "Time": "520631",
+    "Duration": "120",
+    "ScreenX": "62",
+    "ScreenY": "257"
+}, {
+    "Number": "579",
+    "Time": "522884",
+    "Duration": "100",
+    "ScreenX": "92",
+    "ScreenY": "538"
+}, {
+    "Number": "580",
+    "Time": "524997",
+    "Duration": "160",
+    "ScreenX": "696",
+    "ScreenY": "503"
+}, {
+    "Number": "581",
+    "Time": "527071",
+    "Duration": "120",
+    "ScreenX": "688",
+    "ScreenY": "515"
+}, {
+    "Number": "582",
+    "Time": "529862",
+    "Duration": "119",
+    "ScreenX": "709",
+    "ScreenY": "547"
+}, {
+    "Number": "583",
+    "Time": "532913",
+    "Duration": "140",
+    "ScreenX": "51",
+    "ScreenY": "620"
+}, {
+    "Number": "584",
+    "Time": "539233",
+    "Duration": "200",
+    "ScreenX": "92",
+    "ScreenY": "243"
+}, {
+    "Number": "585",
+    "Time": "540828",
+    "Duration": "100",
+    "ScreenX": "67",
+    "ScreenY": "554"
+}, {
+    "Number": "586",
+    "Time": "544736",
+    "Duration": "100",
+    "ScreenX": "881",
+    "ScreenY": "566"
+}, {
+    "Number": "587",
+    "Time": "547746",
+    "Duration": "160",
+    "ScreenX": "1067",
+    "ScreenY": "141"
+}, {
+    "Number": "588",
+    "Time": "547926",
+    "Duration": "100",
+    "ScreenX": "1071",
+    "ScreenY": "133"
+}, {
+    "Number": "589",
+    "Time": "548045",
+    "Duration": "199",
+    "ScreenX": "1087",
+    "ScreenY": "77"
+}, {
+    "Number": "590",
+    "Time": "548264",
+    "Duration": "160",
+    "ScreenX": "1059",
+    "ScreenY": "95"
+}]

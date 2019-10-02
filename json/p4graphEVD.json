@@ -1,0 +1,2242 @@
+[{
+    "Time": "12813",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1045",
+    "Data2": "755"
+}, {
+    "Time": "14439",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1042",
+    "Data2": "755"
+}, {
+    "Time": "16083",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1043",
+    "Data2": "741"
+}, {
+    "Time": "17308",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1013",
+    "Data2": "577"
+}, {
+    "Time": "30415",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "382",
+    "Data2": "909"
+}, {
+    "Time": "33844",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "378",
+    "Data2": "805"
+}, {
+    "Time": "35479",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "384",
+    "Data2": "804"
+}, {
+    "Time": "38239",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "400",
+    "Data2": "742"
+}, {
+    "Time": "39216",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "397",
+    "Data2": "745"
+}, {
+    "Time": "54506",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1051",
+    "Data2": "861"
+}, {
+    "Time": "56420",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1052",
+    "Data2": "860"
+}, {
+    "Time": "59181",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "431",
+    "Data2": "651"
+}, {
+    "Time": "60686",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "390",
+    "Data2": "786"
+}, {
+    "Time": "61493",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "386",
+    "Data2": "782"
+}, {
+    "Time": "62261",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "383",
+    "Data2": "781"
+}, {
+    "Time": "64085",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1067",
+    "Data2": "761"
+}, {
+    "Time": "64354",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1063",
+    "Data2": "766"
+}, {
+    "Time": "64905",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1063",
+    "Data2": "766"
+}, {
+    "Time": "65759",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1063",
+    "Data2": "769"
+}, {
+    "Time": "69756",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1012",
+    "Data2": "718"
+}, {
+    "Time": "70873",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "954",
+    "Data2": "769"
+}, {
+    "Time": "73055",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1025",
+    "Data2": "653"
+}, {
+    "Time": "74521",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1015",
+    "Data2": "654"
+}, {
+    "Time": "83931",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "498",
+    "Data2": "223"
+}, {
+    "Time": "91665",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "167",
+    "Data2": "259"
+}, {
+    "Time": "93101",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "330",
+    "Data2": "249"
+}, {
+    "Time": "95293",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "394",
+    "Data2": "749"
+}, {
+    "Time": "97177",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "391",
+    "Data2": "754"
+}, {
+    "Time": "99211",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "389",
+    "Data2": "749"
+}, {
+    "Time": "103985",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "468",
+    "Data2": "613"
+}, {
+    "Time": "104803",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "468",
+    "Data2": "613"
+}, {
+    "Time": "108940",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1109",
+    "Data2": "557"
+}, {
+    "Time": "109428",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1120",
+    "Data2": "557"
+}, {
+    "Time": "112169",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "948",
+    "Data2": "768"
+}, {
+    "Time": "118190",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1037",
+    "Data2": "849"
+}, {
+    "Time": "119675",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1037",
+    "Data2": "849"
+}, {
+    "Time": "132174",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1269",
+    "Data2": "181"
+}, {
+    "Time": "133978",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "532",
+    "Data2": "242"
+}, {
+    "Time": "134795",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "593",
+    "Data2": "234"
+}, {
+    "Time": "135254",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "608",
+    "Data2": "234"
+}, {
+    "Time": "135902",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "578",
+    "Data2": "254"
+}, {
+    "Time": "138812",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "499",
+    "Data2": "270"
+}, {
+    "Time": "139869",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "612",
+    "Data2": "264"
+}, {
+    "Time": "140546",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "562",
+    "Data2": "286"
+}, {
+    "Time": "147175",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "518",
+    "Data2": "437"
+}, {
+    "Time": "148401",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "470",
+    "Data2": "607"
+}, {
+    "Time": "150015",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "515",
+    "Data2": "447"
+}, {
+    "Time": "151022",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "509",
+    "Data2": "444"
+}, {
+    "Time": "153245",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "244",
+    "Data2": "775"
+}, {
+    "Time": "154371",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "230",
+    "Data2": "779"
+}, {
+    "Time": "156245",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "244",
+    "Data2": "782"
+}, {
+    "Time": "158020",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "278",
+    "Data2": "745"
+}, {
+    "Time": "159355",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "291",
+    "Data2": "752"
+}, {
+    "Time": "160591",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "311",
+    "Data2": "764"
+}, {
+    "Time": "161647",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "333",
+    "Data2": "766"
+}, {
+    "Time": "162873",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "354",
+    "Data2": "765"
+}, {
+    "Time": "186775",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "595",
+    "Data2": "217"
+}, {
+    "Time": "187682",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "607",
+    "Data2": "214"
+}, {
+    "Time": "188638",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "588",
+    "Data2": "215"
+}, {
+    "Time": "189206",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "603",
+    "Data2": "216"
+}, {
+    "Time": "189874",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "587",
+    "Data2": "217"
+}, {
+    "Time": "190512",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "608",
+    "Data2": "214"
+}, {
+    "Time": "191090",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "584",
+    "Data2": "213"
+}, {
+    "Time": "192306",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "565",
+    "Data2": "249"
+}, {
+    "Time": "193632",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "609",
+    "Data2": "249"
+}, {
+    "Time": "194439",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "609",
+    "Data2": "249"
+}, {
+    "Time": "195097",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "585",
+    "Data2": "219"
+}, {
+    "Time": "196293",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "603",
+    "Data2": "210"
+}, {
+    "Time": "197181",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "589",
+    "Data2": "215"
+}, {
+    "Time": "198148",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "570",
+    "Data2": "250"
+}, {
+    "Time": "200669",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "585",
+    "Data2": "221"
+}, {
+    "Time": "200829",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "584",
+    "Data2": "221"
+}, {
+    "Time": "200978",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "584",
+    "Data2": "221"
+}, {
+    "Time": "202702",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203202",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203239",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203278",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203316",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203355",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203393",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203431",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203470",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203509",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "RShiftKey"
+}, {
+    "Time": "203547",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "N"
+}, {
+    "Time": "203587",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "o"
+}, {
+    "Time": "204358",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "79",
+    "Data2": "0",
+    "Description": "210557"
+}, {
+    "Time": "206042",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "474",
+    "Data2": "247"
+}, {
+    "Time": "210557",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "611",
+    "Data2": "249"
+}, {
+    "Time": "215112",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "535",
+    "Data2": "306"
+}, {
+    "Time": "218541",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "515",
+    "Data2": "707"
+}, {
+    "Time": "223266",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "511",
+    "Data2": "818"
+}, {
+    "Time": "224870",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "499",
+    "Data2": "823"
+}, {
+    "Time": "234867",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1006",
+    "Data2": "720"
+}, {
+    "Time": "241474",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "561",
+    "Data2": "283"
+}, {
+    "Time": "242660",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "610",
+    "Data2": "286"
+}, {
+    "Time": "243667",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "583",
+    "Data2": "234"
+}, {
+    "Time": "245680",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1263",
+    "Data2": "182"
+}, {
+    "Time": "250644",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "519",
+    "Data2": "703"
+}, {
+    "Time": "254640",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "418",
+    "Data2": "595"
+}, {
+    "Time": "259564",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "361",
+    "Data2": "703"
+}, {
+    "Time": "260870",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "440",
+    "Data2": "489"
+}, {
+    "Time": "262186",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "378",
+    "Data2": "710"
+}, {
+    "Time": "263213",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "343",
+    "Data2": "477"
+}, {
+    "Time": "265804",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "301",
+    "Data2": "592"
+}, {
+    "Time": "272602",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1091",
+    "Data2": "803"
+}, {
+    "Time": "275034",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "919",
+    "Data2": "886"
+}, {
+    "Time": "276409",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "922",
+    "Data2": "887"
+}, {
+    "Time": "282628",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "792",
+    "Data2": "862"
+}, {
+    "Time": "288219",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "508",
+    "Data2": "210"
+}, {
+    "Time": "289066",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "612",
+    "Data2": "207"
+}, {
+    "Time": "289654",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "584",
+    "Data2": "207"
+}, {
+    "Time": "290412",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "608",
+    "Data2": "212"
+}, {
+    "Time": "290970",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "583",
+    "Data2": "233"
+}, {
+    "Time": "291927",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "527",
+    "Data2": "236"
+}, {
+    "Time": "295196",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "358",
+    "Data2": "477"
+}, {
+    "Time": "297668",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "346",
+    "Data2": "475"
+}, {
+    "Time": "301097",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "455",
+    "Data2": "493"
+}, {
+    "Time": "302413",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "455",
+    "Data2": "493"
+}, {
+    "Time": "304954",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "352",
+    "Data2": "591"
+}, {
+    "Time": "314005",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "953",
+    "Data2": "769"
+}, {
+    "Time": "315739",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1085",
+    "Data2": "801"
+}, {
+    "Time": "319188",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "926",
+    "Data2": "842"
+}, {
+    "Time": "322089",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "961",
+    "Data2": "958"
+}, {
+    "Time": "326922",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "609",
+    "Data2": "232"
+}, {
+    "Time": "327750",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "533",
+    "Data2": "288"
+}, {
+    "Time": "330610",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "891",
+    "Data2": "786"
+}, {
+    "Time": "331049",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "892",
+    "Data2": "794"
+}, {
+    "Time": "332175",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "901",
+    "Data2": "796"
+}, {
+    "Time": "335624",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "834",
+    "Data2": "701"
+}, {
+    "Time": "339142",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "185",
+    "Data2": "761"
+}, {
+    "Time": "339900",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "174",
+    "Data2": "751"
+}, {
+    "Time": "341375",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "505",
+    "Data2": "242"
+}, {
+    "Time": "343807",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "608",
+    "Data2": "244"
+}, {
+    "Time": "344335",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "576",
+    "Data2": "271"
+}, {
+    "Time": "346757",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "372",
+    "Data2": "470"
+}, {
+    "Time": "348183",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "422",
+    "Data2": "598"
+}, {
+    "Time": "349708",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "450",
+    "Data2": "824"
+}, {
+    "Time": "350036",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "446",
+    "Data2": "832"
+}, {
+    "Time": "358340",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1010",
+    "Data2": "709"
+}, {
+    "Time": "358638",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1010",
+    "Data2": "717"
+}, {
+    "Time": "360403",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1114",
+    "Data2": "569"
+}, {
+    "Time": "360652",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1115",
+    "Data2": "563"
+}, {
+    "Time": "362576",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1116",
+    "Data2": "561"
+}, {
+    "Time": "365227",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "898",
+    "Data2": "793"
+}, {
+    "Time": "366164",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "920",
+    "Data2": "758"
+}, {
+    "Time": "367272",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "923",
+    "Data2": "751"
+}, {
+    "Time": "368058",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "952",
+    "Data2": "740"
+}, {
+    "Time": "369513",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1011",
+    "Data2": "723"
+}, {
+    "Time": "370530",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1121",
+    "Data2": "555"
+}, {
+    "Time": "371419",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1118",
+    "Data2": "558"
+}, {
+    "Time": "379880",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "514",
+    "Data2": "264"
+}, {
+    "Time": "396695",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "598",
+    "Data2": "264"
+}, {
+    "Time": "397383",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "597",
+    "Data2": "250"
+}, {
+    "Time": "398030",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "611",
+    "Data2": "249"
+}, {
+    "Time": "398758",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "559",
+    "Data2": "305"
+}, {
+    "Time": "413191",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "446",
+    "Data2": "838"
+}, {
+    "Time": "414138",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "446",
+    "Data2": "838"
+}, {
+    "Time": "418095",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "505",
+    "Data2": "701"
+}, {
+    "Time": "418324",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "517",
+    "Data2": "705"
+}, {
+    "Time": "419600",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "517",
+    "Data2": "705"
+}, {
+    "Time": "422421",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "549",
+    "Data2": "662"
+}, {
+    "Time": "423308",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "552",
+    "Data2": "707"
+}, {
+    "Time": "429848",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1117",
+    "Data2": "671"
+}, {
+    "Time": "436765",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "539",
+    "Data2": "261"
+}, {
+    "Time": "437961",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "610",
+    "Data2": "264"
+}, {
+    "Time": "438598",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "562",
+    "Data2": "314"
+}, {
+    "Time": "441409",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "551",
+    "Data2": "525"
+}, {
+    "Time": "445406",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "238",
+    "Data2": "600"
+}, {
+    "Time": "447290",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "428",
+    "Data2": "782"
+}, {
+    "Time": "450489",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1108",
+    "Data2": "659"
+}, {
+    "Time": "455134",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "558",
+    "Data2": "521"
+}, {
+    "Time": "455802",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "555",
+    "Data2": "524"
+}, {
+    "Time": "457188",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "555",
+    "Data2": "524"
+}, {
+    "Time": "458613",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "445",
+    "Data2": "693"
+}, {
+    "Time": "460716",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "531",
+    "Data2": "544"
+}, {
+    "Time": "465470",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "503",
+    "Data2": "594"
+}, {
+    "Time": "471411",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1113",
+    "Data2": "670"
+}, {
+    "Time": "472976",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1140",
+    "Data2": "606"
+}, {
+    "Time": "473325",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1141",
+    "Data2": "613"
+}, {
+    "Time": "478109",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1141",
+    "Data2": "613"
+}, {
+    "Time": "480701",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1161",
+    "Data2": "681"
+}, {
+    "Time": "484210",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1096",
+    "Data2": "558"
+}, {
+    "Time": "487599",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "513",
+    "Data2": "286"
+}, {
+    "Time": "488536",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "610",
+    "Data2": "279"
+}, {
+    "Time": "489384",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "566",
+    "Data2": "341"
+}, {
+    "Time": "491607",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "567",
+    "Data2": "293"
+}, {
+    "Time": "493480",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "452",
+    "Data2": "472"
+}, {
+    "Time": "493819",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "457",
+    "Data2": "478"
+}, {
+    "Time": "495713",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1042",
+    "Data2": "563"
+}, {
+    "Time": "498295",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "606",
+    "Data2": "298"
+}, {
+    "Time": "499102",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "571",
+    "Data2": "294"
+}, {
+    "Time": "500836",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "566",
+    "Data2": "295"
+}, {
+    "Time": "501016",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "566",
+    "Data2": "295"
+}, {
+    "Time": "503377",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "89",
+    "Data2": "0",
+    "Description": "e"
+}, {
+    "Time": "503580",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "s"
+}, {
+    "Time": "503766",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "83",
+    "Data2": "0",
+    "Description": "506408"
+}, {
+    "Time": "504973",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "517",
+    "Data2": "269"
+}, {
+    "Time": "506408",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "497",
+    "Data2": "258"
+}, {
+    "Time": "516375",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "416",
+    "Data2": "605"
+}, {
+    "Time": "517053",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "455",
+    "Data2": "596"
+}, {
+    "Time": "522465",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "807",
+    "Data2": "750"
+}, {
+    "Time": "524409",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "924",
+    "Data2": "726"
+}, {
+    "Time": "524867",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "915",
+    "Data2": "728"
+}, {
+    "Time": "525615",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "886",
+    "Data2": "845"
+}, {
+    "Time": "525904",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "882",
+    "Data2": "853"
+}, {
+    "Time": "526562",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "867",
+    "Data2": "856"
+}, {
+    "Time": "526880",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "875",
+    "Data2": "857"
+}, {
+    "Time": "528874",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "474",
+    "Data2": "288"
+}, {
+    "Time": "530020",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "611",
+    "Data2": "281"
+}, {
+    "Time": "530668",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "542",
+    "Data2": "337"
+}, {
+    "Time": "531675",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "443",
+    "Data2": "293"
+}, {
+    "Time": "534067",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "454",
+    "Data2": "596"
+}, {
+    "Time": "534754",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "446",
+    "Data2": "484"
+}, {
+    "Time": "537207",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "450",
+    "Data2": "627"
+}, {
+    "Time": "540057",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1044",
+    "Data2": "636"
+}, {
+    "Time": "541473",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1046",
+    "Data2": "564"
+}, {
+    "Time": "544593",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1131",
+    "Data2": "655"
+}, {
+    "Time": "547843",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "607",
+    "Data2": "297"
+}, {
+    "Time": "548580",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "589",
+    "Data2": "296"
+}, {
+    "Time": "549198",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "607",
+    "Data2": "296"
+}, {
+    "Time": "550045",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "592",
+    "Data2": "248"
+}, {
+    "Time": "556554",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "449",
+    "Data2": "481"
+}, {
+    "Time": "558508",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1047",
+    "Data2": "568"
+}, {
+    "Time": "560044",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1049",
+    "Data2": "576"
+}, {
+    "Time": "560273",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1044",
+    "Data2": "572"
+}, {
+    "Time": "561578",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1046",
+    "Data2": "566"
+}, {
+    "Time": "561738",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1046",
+    "Data2": "566"
+}, {
+    "Time": "562226",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1046",
+    "Data2": "566"
+}, {
+    "Time": "563492",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "424",
+    "Data2": "580"
+}, {
+    "Time": "563802",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "451",
+    "Data2": "588"
+}, {
+    "Time": "565067",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "454",
+    "Data2": "589"
+}, {
+    "Time": "569852",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "460",
+    "Data2": "597"
+}, {
+    "Time": "570929",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "510",
+    "Data2": "570"
+}, {
+    "Time": "571677",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "810",
+    "Data2": "734"
+}, {
+    "Time": "572016",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "805",
+    "Data2": "739"
+}, {
+    "Time": "572804",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "800",
+    "Data2": "744"
+}, {
+    "Time": "573630",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "915",
+    "Data2": "728"
+}, {
+    "Time": "574667",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "801",
+    "Data2": "739"
+}, {
+    "Time": "574856",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "801",
+    "Data2": "739"
+}, {
+    "Time": "575594",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "802",
+    "Data2": "738"
+}, {
+    "Time": "579053",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "166",
+    "Data2": "274"
+}, {
+    "Time": "583389",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "{"
+}, {
+    "Time": "583582",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "219",
+    "Data2": "0",
+    "Description": "e"
+}, {
+    "Time": "583904",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "r"
+}, {
+    "Time": "584021",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "82",
+    "Data2": "0",
+    "Description": "Delete"
+}, {
+    "Time": "584437",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "46",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "584677",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "584854",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "585028",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "585289",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "585788",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "585825",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "585864",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "P"
+}, {
+    "Time": "585892",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "80",
+    "Data2": "0",
+    "Description": "e"
+}, {
+    "Time": "586092",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "r"
+}, {
+    "Time": "586176",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "82",
+    "Data2": "0",
+    "Description": "s"
+}, {
+    "Time": "586368",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "83",
+    "Data2": "0",
+    "Description": "o"
+}, {
+    "Time": "586891",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "79",
+    "Data2": "0",
+    "Description": "n"
+}, {
+    "Time": "586992",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "Space"
+}, {
+    "Time": "587222",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "32",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "587820",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "588525"
+}, {
+    "Time": "587977",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "9",
+    "Data2": "0"
+}, {
+    "Time": "588525",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "P"
+}, {
+    "Time": "588622",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "80",
+    "Data2": "0",
+    "Description": "e"
+}, {
+    "Time": "589260",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "r"
+}, {
+    "Time": "589386",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "82",
+    "Data2": "0",
+    "Description": "s"
+}, {
+    "Time": "589561",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "83",
+    "Data2": "0",
+    "Description": "o"
+}, {
+    "Time": "589664",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "79",
+    "Data2": "0",
+    "Description": "n"
+}, {
+    "Time": "589741",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "593972"
+}, {
+    "Time": "591293",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "178",
+    "Data2": "285"
+}, {
+    "Time": "593972",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "E"
+}, {
+    "Time": "594048",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "v"
+}, {
+    "Time": "594241",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "86",
+    "Data2": "0",
+    "Description": "e"
+}, {
+    "Time": "594418",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "n"
+}, {
+    "Time": "594563",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "t"
+}, {
+    "Time": "594736",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "84",
+    "Data2": "0",
+    "Description": "595783"
+}, {
+    "Time": "595151",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "9",
+    "Data2": "0"
+}, {
+    "Time": "595783",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "161",
+    "Data2": "0",
+    "Description": "E"
+}, {
+    "Time": "595876",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "v"
+}, {
+    "Time": "596072",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "86",
+    "Data2": "0",
+    "Description": "e"
+}, {
+    "Time": "596224",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "n"
+}, {
+    "Time": "596339",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "t"
+}, {
+    "Time": "596467",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "84",
+    "Data2": "0",
+    "Description": "598509"
+}, {
+    "Time": "596911",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "9",
+    "Data2": "0"
+}, {
+    "Time": "598509",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "82",
+    "Data2": "300"
+}, {
+    "Time": "623890",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "P"
+}, {
+    "Time": "624141",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "80",
+    "Data2": "0",
+    "Description": "r"
+}, {
+    "Time": "624387",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "82",
+    "Data2": "0",
+    "Description": "g"
+}, {
+    "Time": "624623",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "71",
+    "Data2": "0",
+    "Description": "a"
+}, {
+    "Time": "624741",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "65",
+    "Data2": "0",
+    "Description": "n"
+}, {
+    "Time": "624872",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "625218",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "625404",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "625578",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "625751",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "625917",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "626044",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "O"
+}, {
+    "Time": "626178",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "79",
+    "Data2": "0",
+    "Description": "r"
+}, {
+    "Time": "626624",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "82",
+    "Data2": "0",
+    "Description": "g"
+}, {
+    "Time": "626943",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "71",
+    "Data2": "0",
+    "Description": "629928"
+}, {
+    "Time": "627742",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "13",
+    "Data2": "0"
+}, {
+    "Time": "629928",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "319",
+    "Data2": "287"
+}, {
+    "Time": "630403",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "630902",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "630940",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "630978",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "631016",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "631056",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "P"
+}, {
+    "Time": "631075",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "80",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "631637",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "\b"
+}, {
+    "Time": "631902",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "8",
+    "Data2": "0",
+    "Description": "LShiftKey"
+}, {
+    "Time": "632138",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "O"
+}, {
+    "Time": "632206",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "79",
+    "Data2": "0",
+    "Description": "r"
+}, {
+    "Time": "632710",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "82",
+    "Data2": "0",
+    "Description": "g"
+}, {
+    "Time": "632950",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "71",
+    "Data2": "0",
+    "Description": "a"
+}, {
+    "Time": "633340",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "65",
+    "Data2": "0",
+    "Description": "n"
+}, {
+    "Time": "633517",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "i"
+}, {
+    "Time": "633683",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "73",
+    "Data2": "0",
+    "Description": "z"
+}, {
+    "Time": "633848",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "90",
+    "Data2": "0",
+    "Description": "a"
+}, {
+    "Time": "634063",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "65",
+    "Data2": "0",
+    "Description": "t"
+}, {
+    "Time": "634190",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "84",
+    "Data2": "0",
+    "Description": "i"
+}, {
+    "Time": "634337",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "73",
+    "Data2": "0",
+    "Description": "o"
+}, {
+    "Time": "634405",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "79",
+    "Data2": "0",
+    "Description": "n"
+}, {
+    "Time": "634568",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "651239"
+}, {
+    "Time": "635679",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "437",
+    "Data2": "282"
+}, {
+    "Time": "651239",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "447",
+    "Data2": "210"
+}, {
+    "Time": "652545",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "612",
+    "Data2": "214"
+}, {
+    "Time": "653213",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "550",
+    "Data2": "266"
+}, {
+    "Time": "660680",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "471",
+    "Data2": "251"
+}, {
+    "Time": "669940",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "166",
+    "Data2": "216"
+}, {
+    "Time": "670957",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "445",
+    "Data2": "482"
+}, {
+    "Time": "674726",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "409",
+    "Data2": "621"
+}, {
+    "Time": "677179",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1054",
+    "Data2": "562"
+}, {
+    "Time": "677626",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1048",
+    "Data2": "565"
+}, {
+    "Time": "679720",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1118",
+    "Data2": "730"
+}, {
+    "Time": "680836",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1079",
+    "Data2": "683"
+}, {
+    "Time": "682461",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1095",
+    "Data2": "725"
+}, {
+    "Time": "685283",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "463",
+    "Data2": "210"
+}, {
+    "Time": "686545",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "N"
+}, {
+    "Time": "686955",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "78",
+    "Data2": "0",
+    "Description": "o"
+}, {
+    "Time": "687309",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "79",
+    "Data2": "0",
+    "Description": "692469"
+}, {
+    "Time": "688144",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "660",
+    "Data2": "236"
+}, {
+    "Time": "692469",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "524",
+    "Data2": "263"
+}, {
+    "Time": "693895",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "450",
+    "Data2": "484"
+}, {
+    "Time": "697164",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "1047",
+    "Data2": "566"
+}, {
+    "Time": "699098",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "802",
+    "Data2": "739"
+}, {
+    "Time": "702507",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "886",
+    "Data2": "831"
+}, {
+    "Time": "704441",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "820",
+    "Data2": "847"
+}, {
+    "Time": "705638",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "815",
+    "Data2": "847"
+}, {
+    "Time": "708786",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "160",
+    "Data2": "0",
+    "Description": "y"
+}, {
+    "Time": "709051",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "89",
+    "Data2": "0",
+    "Description": "e"
+}, {
+    "Time": "709232",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "69",
+    "Data2": "0",
+    "Description": "s"
+}, {
+    "Time": "709410",
+    "Event": "Keyboard",
+    "EventKey": "3",
+    "Data1": "83",
+    "Data2": "0",
+    "Description": "711538"
+}, {
+    "Time": "710820",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "608",
+    "Data2": "258"
+}, {
+    "Time": "711538",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "581",
+    "Data2": "262"
+}, {
+    "Time": "711977",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "616",
+    "Data2": "262"
+}, {
+    "Time": "712595",
+    "Event": "LMouseButton",
+    "EventKey": "1",
+    "Data1": "549",
+    "Data2": "284"
+}]

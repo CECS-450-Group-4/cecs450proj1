@@ -4,6 +4,7 @@ from pathlib import Path
 import plotly.graph_objects as go
 import plotly.express as px
 import math
+from plotly.subplots import make_subplots
 
 def load_file(path, names):
     if not path.is_file():
@@ -40,6 +41,19 @@ def calculate_saccade_length(FXD):
     x = x.fillna(0.)
     return x
 
+def hover_and_bubble(FXD):
+    hover_text = []
+    bubble_size = []
+
+    for index, row in FXD.iterrows():
+        hover_text.append(('Fixation Duration: {duration}<br>'+
+                            'Saccade Length: {saccade_length}<br>')
+                            .format(duration=row['duration'], 
+                            saccade_length=row['saccade_length']))
+        bubble_size.append(math.sqrt(row['dilation']))
+    return hover_text, bubble_size
+
+
 graphEVD, graphFXD, graphGZD, treeEVD, treeFXD, treeGZD, GZD = load_datasets()
 
 graphGZD = remove_invalid_data(graphGZD)
@@ -53,37 +67,44 @@ treeFXD['saccade_length'] = calculate_saccade_length(treeFXD)
 #randomized event and dilation for now
 event_names = ['LMouseButton', 'Keyboard', 'RMouseButton']
 graphFXD['event'] = np.random.choice(event_names, size=len(graphFXD))
-graphFXD['dilation'] = np.random.choice(10000, size=len(graphFXD))
+graphFXD['dilation'] = np.random.choice(100000, size=len(graphFXD))
+graphFXD['text'], graphFXD['size'] = hover_and_bubble(graphFXD)
 
-hover_text = []
-bubble_size = []
+treeFXD['event'] = np.random.choice(event_names, size=len(treeFXD))
+treeFXD['dilation'] = np.random.choice(100000, size=len(treeFXD))
+treeFXD['text'], treeFXD['size'] = hover_and_bubble(treeFXD)
 
-for index, row in graphFXD.iterrows():
-    hover_text.append(('Fixation Duration: {duration}<br>'+
-                        'Saccade Length: {saccade_length}<br>')
-                        .format(duration=row['duration'], 
-                        saccade_length=row['saccade_length']))
-    bubble_size.append(math.sqrt(row['dilation']))
-
-graphFXD['text'] = hover_text
-graphFXD['size'] = bubble_size
 sizeref = 2.*max(graphFXD['size'])/(100**2)
 
-event_data = {event:graphFXD.query("event == '%s'" %event) for event in event_names}
+graph_event_data = {event:graphFXD.query("event == '%s'" %event) for event in event_names}
 
-fig = go.Figure() 
+tree_event_data = {event:treeFXD.query("event == '%s'" %event) for event in event_names}
 
-for event_name, event in event_data.items():
+#fig = go.Figure() 
+fig = make_subplots(rows=2, cols=1,
+        subplot_titles=("Graph Visualization Fixation Duration v. Saccade Length",
+        "Tree Visualization Fixation Duration v. Saccade Length"))
+
+for event_name, event in graph_event_data.items():
     fig.add_trace(go.Scatter(
         x=event['duration'], y=event['saccade_length'],
         name=event_name, text = event['text'],
-        marker_size=event['size']
-    ))
+        marker_size=event['size']/2,
+    ), row=1, col=1
+)
+
+for event_name, event in tree_event_data.items():
+    fig.add_trace(go.Scatter(
+        x=event['duration'], y=event['saccade_length'],
+        name=event_name, text = event['text'],
+        marker_size=event['size']/2,
+    ), row=2, col=1
+)
 
 fig.update_traces(mode='markers', marker=dict(sizemode='area', sizeref=sizeref, line_width=2))
 
 fig.update_layout(
-    title='Fixation Duration v. Saccade Length',
+    title_text='Comparison of Graph and Tree Visualizations',
     xaxis=dict(title='Fixation Duration', gridcolor='white', gridwidth=2,),
     yaxis=dict(title='Saccade Length', gridcolor='white', gridwidth=2,),
     paper_bgcolor='rgb(243, 243, 243)',

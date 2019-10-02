@@ -81,7 +81,7 @@ graph_event_data = {event:graphFXD.query("event == '%s'" %event) for event in ev
 tree_event_data = {event:treeFXD.query("event == '%s'" %event) for event in event_names}
 
 #fig = go.Figure() 
-fig = make_subplots(rows=2, cols=1,
+fig = make_subplots(rows=2, cols=1, shared_xaxes=True,
         subplot_titles=("Graph Visualization Fixation Duration v. Saccade Length",
         "Tree Visualization Fixation Duration v. Saccade Length"))
 
@@ -89,7 +89,7 @@ for event_name, event in graph_event_data.items():
     fig.add_trace(go.Scatter(
         x=event['duration'], y=event['saccade_length'],
         name=event_name, text = event['text'],
-        marker_size=event['size']/2,
+        marker_size=event['size']/4,
     ), row=1, col=1
 )
 
@@ -97,7 +97,7 @@ for event_name, event in tree_event_data.items():
     fig.add_trace(go.Scatter(
         x=event['duration'], y=event['saccade_length'],
         name=event_name, text = event['text'],
-        marker_size=event['size']/2,
+        marker_size=event['size']/4,
     ), row=2, col=1
 )
 

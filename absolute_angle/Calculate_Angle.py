@@ -115,12 +115,14 @@ def dot_product(a, b):
 def length(x):
   return math.sqrt(x[0]**2+x[1]**2)
 
-# Function to calculate absolute angles for every point
-# Returns only acute angles for each point
+'''
+Function to calculate absolute angles for every point
+Returns only acute angles for each point
+'''
 def calculateAbsoluteAngle(anglePoints):
-  a = anglePoints[0]
-  b = anglePoints[1]
-  cosx = dot_product(a, b) / (length(a) * length(b))
+  a = anglePoints[0] # Get angle point 1
+  b = anglePoints[1] # Get angle point 2
+  cosx = dot_product(a, b) / (length(a) * length(b)) # Calc cosine
   rad = math.acos(cosx) # Get radians
   deg = rad * 180 / math.pi # Convert rad to degrees
   deg = round(deg) # Round decimal

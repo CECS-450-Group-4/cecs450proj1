@@ -16,7 +16,7 @@ def load_file(path, names):
 def load_datasets():
     EVD_cols = ["time", "event", "event_key", "data_1", "data_2", "description"]
     FXD_cols = ["fix_number", "timestamp", "duration", "gazepoint_x", "gazepoint_y"]
-    GZD_cols = ["gazepoint_X_L" ,"gazepoint_Y_L", "cam_X_L", "cam_Y_L",
+    GZD_cols = ["timestamp", "number", "gazepoint_X_L" ,"gazepoint_Y_L", "cam_X_L", "cam_Y_L",
                 "distance_L", "pupil_L", "validity_L", "gazepoint_X_R",
                 "gazepoint_Y_R", "cam_X_R", "cam_Y_R", "distance_R", "pupil_R", 
                  "validity_R"]
@@ -35,9 +35,22 @@ def remove_invalid_data(GZD):
     GZD.drop(indexNames, inplace=True)
     return GZD
 
+def l_r_dilation(GZD):
+    x =  (GZD['pupil_R'].add(GZD['pupil_L'])).div(2)
+    return x
+    
+def avg_dilation(GZD):
+    GZD['dilation'] = l_r_dilation(GZD)
+    return GZD['dilation'].mean()
+
+def add_dilation_to_fxd(GZD, FXD):
+    GZD['dilation'] = l_r_dilation(GZD)
+    FXD = pd.merge_ordered(FXD, GZD[['timestamp', 'dilation']], fill_method='ffill', left_by='timestamp')
+    return FXD
+
 def calculate_saccade_length(FXD):
     x = np.square(FXD[['gazepoint_x', 'gazepoint_y']].diff())
-    x = np.sqrt(x['gazepoint_x'] + x['gazepoint_y'])
+    x = np.sqrt(x['gazepoint_x'].add(x['gazepoint_y']))
     x = x.fillna(0.)
     return x
 
@@ -60,6 +73,13 @@ graphGZD = remove_invalid_data(graphGZD)
 treeGZD = remove_invalid_data(treeGZD)
 GZD = remove_invalid_data(GZD)
 
+
+graphFXD = add_dilation_to_fxd(graphGZD, graphFXD)
+treeFXD = add_dilation_to_fxd(treeGZD, treeFXD)
+
+print(graphFXD)
+print(treeFXD)
+
 graphFXD['saccade_length'] = calculate_saccade_length(graphFXD)
 
 treeFXD['saccade_length'] = calculate_saccade_length(treeFXD)
@@ -71,7 +91,6 @@ graphFXD['dilation'] = np.random.choice(100000, size=len(graphFXD))
 graphFXD['text'], graphFXD['size'] = hover_and_bubble(graphFXD)
 
 treeFXD['event'] = np.random.choice(event_names, size=len(treeFXD))
-treeFXD['dilation'] = np.random.choice(100000, size=len(treeFXD))
 treeFXD['text'], treeFXD['size'] = hover_and_bubble(treeFXD)
 
 sizeref = 2.*max(graphFXD['size'])/(100**2)
@@ -80,7 +99,6 @@ graph_event_data = {event:graphFXD.query("event == '%s'" %event) for event in ev
 
 tree_event_data = {event:treeFXD.query("event == '%s'" %event) for event in event_names}
 
-#fig = go.Figure() 
 fig = make_subplots(rows=2, cols=1, shared_xaxes=True,
         subplot_titles=("Graph Visualization Fixation Duration v. Saccade Length",
         "Tree Visualization Fixation Duration v. Saccade Length"))
@@ -89,7 +107,7 @@ for event_name, event in graph_event_data.items():
     fig.add_trace(go.Scatter(
         x=event['duration'], y=event['saccade_length'],
         name=event_name, text = event['text'],
-        marker_size=event['size']/4,
+        marker_size=event['size'],
     ), row=1, col=1
 )
 
@@ -111,4 +129,4 @@ fig.update_layout(
     plot_bgcolor='rgb(243, 243, 243)',
 )
 
-fig.show()
+#fig.show()

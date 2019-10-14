@@ -5,21 +5,31 @@ import os
 # 1280x1024
 
 def main():
+  # == Tree Data ==
   tree_data = getEyeDataList("p4.treeFXD.json")
   tree_points_data = cleanCoordinateData(tree_data)
   tree_angles_data = createAngles(tree_points_data)
+
+  #____________________________________________________
+  # Relative and absolute angles for tree
   tree_relative_angles = generateRelativeAngleList(tree_angles_data)
-
   # print(tree_relative_angles)
+  tree_absoulute_angles = generateAbsoluteAngleList(tree_angles_data)
+  # print(tree_absoulute_angles)
+  #____________________________________________________
 
 
+  # == Graph Data ==
   graph_data = getEyeDataList("p4.graphFXD.json")
   graph_points_data = cleanCoordinateData(graph_data)
   graph_angles_data = createAngles(graph_points_data)
+
+  #____________________________________________________
   graph_relative_angles = generateRelativeAngleList(graph_angles_data)
-
   # print(graph_relative_angles)
-
+  graph_absolute_angles = generateAbsoluteAngleList(graph_angles_data)
+  # print(graph_absoulute_angles)
+  #____________________________________________________
 
 '''
   Returns a list containing the data from the json file.
@@ -59,6 +69,13 @@ def createAngles(points):
 
   return angles
 
+def createAngles2(points):
+  angles = []
+  for i in range(len(points) - 2):
+    angles.append((points[i], points[i+1]))
+
+  return angles
+
 # Calculates the relative angle of the 3 given points.
 def calculateRelativeAngle(anglePoints):
   a = anglePoints[0]
@@ -89,8 +106,33 @@ def generateRelativeAngleList(listOfAngles):
 
   return relativeAngles
 
+# Calculate dot product of two points
+def dot_product(a, b):
+  #  Uses the x and y coordinates of both points
+  return a[0]*b[0]+a[1]*b[1]
 
+# Calculate the saccade length between two points
+def length(x):
+  return math.sqrt(x[0]**2+x[1]**2)
 
+# Function to calculate absolute angles for every point
+# Returns only acute angles for each point
+def calculateAbsoluteAngle(anglePoints):
+  a = anglePoints[0]
+  b = anglePoints[1]
+  cosx = dot_product(a, b) / (length(a) * length(b))
+  rad = math.acos(cosx) # Get radians
+  deg = rad * 180 / math.pi # Convert rad to degrees
+  deg = round(deg) # Round decimal
+  return deg
 
+# Returns list of absolute angles
+def generateAbsoluteAngleList(listOfAngles):
+  absoluteAngles = []
+
+  for points in listOfAngles:
+    absoluteAngles.append(calculateAbsoluteAngle(points))
+  return absoluteAngles
+  
 main()
 

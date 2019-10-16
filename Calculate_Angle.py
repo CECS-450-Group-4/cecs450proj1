@@ -102,10 +102,13 @@ def generateRelativeAngleList():
   for points in tree_angles_data:
     tree_relative_angles.append(calculateRelativeAngle(points))
 
-  graph_relative_angles.insert(0, 0)
-  tree_relative_angles.insert(0,0)
-  graph_relative_angles.append(0)
-  tree_relative_angles.append(0)
+  g_ra_av = sum(graph_relative_angles) / len(graph_relative_angles)
+  t_ra_av = sum(tree_relative_angles) / len(tree_relative_angles)
+
+  graph_relative_angles.insert(0, g_ra_av)
+  tree_relative_angles.insert(0,t_ra_av)
+  graph_relative_angles.append(g_ra_av)
+  tree_relative_angles.append(t_ra_av)
   return graph_relative_angles, tree_relative_angles
 
 # Calculate dot product of two points
@@ -123,7 +126,7 @@ def calculateAbsoluteAngle(anglePoints):
   cosx = dot_product(a, b) / (length(a) * length(b)) # Calc cosine
   rad = math.acos(cosx) # Get radians
   deg = rad * 180 / math.pi # Convert rad to degrees
-  deg = round(deg) # Round decimal
+  deg = round(deg) # Round decimal500
   return deg
 
 # Returns list of absolute angles
@@ -150,10 +153,13 @@ def generateAbsoluteAngleList():
   for points in tree_angles_data:
     tree_absolute_angles.append(calculateAbsoluteAngle(points))
 
-  graph_absolute_angles.insert(0, 0)
-  tree_absolute_angles.insert(0,0)
-  graph_absolute_angles.append(0)
-  tree_absolute_angles.append(0)
+  g_aa_av = sum(graph_absolute_angles) / len(graph_absolute_angles)
+  t_aa_av = sum(tree_absolute_angles) / len(tree_absolute_angles)
+  graph_absolute_angles.insert(0, g_aa_av)
+  tree_absolute_angles.insert(0,t_aa_av)
+  graph_absolute_angles.append(g_aa_av)
+  tree_absolute_angles.append(t_aa_av)
+
   return graph_absolute_angles, tree_absolute_angles
 
 

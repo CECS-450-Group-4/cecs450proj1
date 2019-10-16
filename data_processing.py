@@ -40,14 +40,13 @@ def l_r_dilation(GZD):
     x =  round((GZD['pupil_R'].add(GZD['pupil_L'])).div(2), 4)
     avg = round(x.mean(), 4)
     x.fillna(avg)
-    
-def avg_dilation(GZD):
-    GZD['dilation'] = l_r_dilation(GZD)
-    return GZD['dilation'].mean()
+    return x
 
 def add_dilation_to_fxd(GZD, FXD):
     GZD['dilation'] = l_r_dilation(GZD)
     FXD = pd.merge_ordered(FXD, GZD[['timestamp', 'dilation']], fill_method='ffill', left_by='timestamp')
+    avg = FXD['dilation'].mean()
+    FXD['dilation'] = FXD['dilation'].fillna(avg)
     return FXD
 
 def add_angles_to_fxd(graphFXD, treeFXD):
@@ -58,11 +57,6 @@ def add_angles_to_fxd(graphFXD, treeFXD):
     treeFXD['absolute_angle'] = tree_absolute_angle
     return graphFXD, treeFXD
 
-def calculate_saccade_length(FXD):
-    x = np.square(FXD[['gazepoint_x', 'gazepoint_y']].diff())
-    x = np.sqrt(x['gazepoint_x'].add(x['gazepoint_y']))
-    x = x.fillna(0.)
-    return x
 
 def hover(FXD):
     hover_text = []
@@ -94,27 +88,16 @@ treeFXD['text'] = hover(treeFXD)
 print(graphFXD)
 print(treeFXD)
 
-sizeref = max(graphFXD['dilation'])
+sizeref = 4*graphFXD['dilation'].max()/(1000)
 
 fig = make_subplots(rows=2, cols=1, shared_xaxes=True,
         subplot_titles=("Graph Visualization Fixation Duration v. Saccade Length",
         "Tree Visualization Fixation Duration v. Saccade Length"))
 
-graphFXD['dilation'] = graphFXD['dilation'].fillna(3.0)
-treeFXD['dilation'] = treeFXD['dilation'].fillna(3.0)
-for index, row in graphFXD.iterrows():
-    fig.add_trace(go.Scatter(
-        x=row['relative_angle'], y = row['absolute_angle'],
-        text = row['text'], marker_size=row['dilation']
-    ), row=1, col=1
-)
-
-for index, row in treeFXD.items():
-    fig.add_trace(go.Scatter(
-        x=row['relative_angle'], y = row['absolute_angle'],
-        text = row['text'], marker_size=row['dilation']
-    ), row=1, col=1
-)
+fig.add_trace(go.Scatter(x=graphFXD['relative_angle'], y=graphFXD['absolute_angle'],
+    text = graphFXD['text'], marker_size=graphFXD['dilation']), row=1,col=1)
+fig.add_trace(go.Scatter(x=treeFXD['relative_angle'], y=treeFXD['absolute_angle'],
+    text = treeFXD['text'], marker_size=treeFXD['dilation']), row=2,col=1)
 
 fig.update_traces(mode='markers', marker=dict(sizemode='area', sizeref=sizeref, line_width=2))
 

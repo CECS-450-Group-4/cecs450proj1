@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import math
 from plotly.subplots import make_subplots
+from Calculate_Angle import calculateAngles
 
 def load_file(path, names):
     if not path.is_file():
@@ -36,8 +37,9 @@ def remove_invalid_data(GZD):
     return GZD
 
 def l_r_dilation(GZD):
-    x =  (GZD['pupil_R'].add(GZD['pupil_L'])).div(2)
-    return x
+    x =  round((GZD['pupil_R'].add(GZD['pupil_L'])).div(2), 4)
+    avg = round(x.mean(), 4)
+    x.fillna(avg)
     
 def avg_dilation(GZD):
     GZD['dilation'] = l_r_dilation(GZD)
@@ -48,23 +50,31 @@ def add_dilation_to_fxd(GZD, FXD):
     FXD = pd.merge_ordered(FXD, GZD[['timestamp', 'dilation']], fill_method='ffill', left_by='timestamp')
     return FXD
 
+def add_angles_to_fxd(graphFXD, treeFXD):
+    graph_relative_angle, tree_relative_angle, graph_absolute_angle, tree_absolute_angle = calculateAngles()
+    graphFXD['relative_angle'] = graph_relative_angle
+    treeFXD['relative_angle'] = tree_relative_angle
+    graphFXD['absolute_angle'] = graph_absolute_angle
+    treeFXD['absolute_angle'] = tree_absolute_angle
+    return graphFXD, treeFXD
+
 def calculate_saccade_length(FXD):
     x = np.square(FXD[['gazepoint_x', 'gazepoint_y']].diff())
     x = np.sqrt(x['gazepoint_x'].add(x['gazepoint_y']))
     x = x.fillna(0.)
     return x
 
-def hover_and_bubble(FXD):
+def hover(FXD):
     hover_text = []
-    bubble_size = []
 
     for index, row in FXD.iterrows():
-        hover_text.append(('Fixation Duration: {duration}<br>'+
-                            'Saccade Length: {saccade_length}<br>')
-                            .format(duration=row['duration'], 
-                            saccade_length=row['saccade_length']))
-        bubble_size.append(math.sqrt(row['dilation']))
-    return hover_text, bubble_size
+        hover_text.append(('Relative Angle: {relative_angle}<br>'+
+                            'Absolute Angle: {absolute_angle}<br>'+
+                            'Pupil Dilation: {dilation}<br>')
+                            .format(relative_angle=row['relative_angle'], 
+                            absolute_angle=row['absolute_angle'],
+                            dilation=row['dilation']))
+    return hover_text
 
 
 graphEVD, graphFXD, graphGZD, treeEVD, treeFXD, treeGZD, GZD = load_datasets()
@@ -73,60 +83,47 @@ graphGZD = remove_invalid_data(graphGZD)
 treeGZD = remove_invalid_data(treeGZD)
 GZD = remove_invalid_data(GZD)
 
-
 graphFXD = add_dilation_to_fxd(graphGZD, graphFXD)
 treeFXD = add_dilation_to_fxd(treeGZD, treeFXD)
+
+graphFXD, treeFXD = add_angles_to_fxd(graphFXD, treeFXD)
+
+graphFXD['text'] = hover(graphFXD)
+treeFXD['text'] = hover(treeFXD)
 
 print(graphFXD)
 print(treeFXD)
 
-graphFXD['saccade_length'] = calculate_saccade_length(graphFXD)
-
-treeFXD['saccade_length'] = calculate_saccade_length(treeFXD)
-
-#randomized event and dilation for now
-event_names = ['LMouseButton', 'Keyboard', 'RMouseButton']
-graphFXD['event'] = np.random.choice(event_names, size=len(graphFXD))
-graphFXD['dilation'] = np.random.choice(100000, size=len(graphFXD))
-graphFXD['text'], graphFXD['size'] = hover_and_bubble(graphFXD)
-
-treeFXD['event'] = np.random.choice(event_names, size=len(treeFXD))
-treeFXD['text'], treeFXD['size'] = hover_and_bubble(treeFXD)
-
-sizeref = 2.*max(graphFXD['size'])/(100**2)
-
-graph_event_data = {event:graphFXD.query("event == '%s'" %event) for event in event_names}
-
-tree_event_data = {event:treeFXD.query("event == '%s'" %event) for event in event_names}
+sizeref = max(graphFXD['dilation'])
 
 fig = make_subplots(rows=2, cols=1, shared_xaxes=True,
         subplot_titles=("Graph Visualization Fixation Duration v. Saccade Length",
         "Tree Visualization Fixation Duration v. Saccade Length"))
 
-for event_name, event in graph_event_data.items():
+graphFXD['dilation'] = graphFXD['dilation'].fillna(3.0)
+treeFXD['dilation'] = treeFXD['dilation'].fillna(3.0)
+for index, row in graphFXD.iterrows():
     fig.add_trace(go.Scatter(
-        x=event['duration'], y=event['saccade_length'],
-        name=event_name, text = event['text'],
-        marker_size=event['size'],
+        x=row['relative_angle'], y = row['absolute_angle'],
+        text = row['text'], marker_size=row['dilation']
     ), row=1, col=1
 )
 
-for event_name, event in tree_event_data.items():
+for index, row in treeFXD.items():
     fig.add_trace(go.Scatter(
-        x=event['duration'], y=event['saccade_length'],
-        name=event_name, text = event['text'],
-        marker_size=event['size']/4,
-    ), row=2, col=1
+        x=row['relative_angle'], y = row['absolute_angle'],
+        text = row['text'], marker_size=row['dilation']
+    ), row=1, col=1
 )
 
 fig.update_traces(mode='markers', marker=dict(sizemode='area', sizeref=sizeref, line_width=2))
 
 fig.update_layout(
     title_text='Comparison of Graph and Tree Visualizations',
-    xaxis=dict(title='Fixation Duration', gridcolor='white', gridwidth=2,),
-    yaxis=dict(title='Saccade Length', gridcolor='white', gridwidth=2,),
+    xaxis=dict(title='Relative Angle (degrees)', gridcolor='white', gridwidth=2,),
+    yaxis=dict(title='Absolute Angle (degrees)', gridcolor='white', gridwidth=2,),
     paper_bgcolor='rgb(243, 243, 243)',
     plot_bgcolor='rgb(243, 243, 243)',
 )
 
-#fig.show()
+fig.show()

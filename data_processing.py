@@ -52,10 +52,8 @@ def add_dilation_to_fxd(GZD, FXD):
 def dilation_color(FXD):
     avg = FXD['dilation'].mean()
     FXD['percentage_change'] = ((FXD['dilation'].sub(avg)).div(avg)).mul(100)
-    print(FXD['percentage_change'])
     FXD['color'] = 'green'
-    FXD.loc[FXD['percentage_change'] > 4., 'color'] = 'red'
-    FXD.loc[FXD['percentage_change'] < -4., 'color'] = 'yellow'
+    FXD.loc[FXD['percentage_change'] > 3., 'color'] = 'red'
     return FXD
 
 def add_angles_to_fxd(graphFXD, treeFXD):
@@ -97,32 +95,41 @@ treeFXD['text'] = hover(treeFXD)
 graphFXD = dilation_color(graphFXD)
 treeFXD = dilation_color(treeFXD)
 
-print(graphFXD)
-print(treeFXD)
-
-graph_size = np.log(graphFXD['dilation'])
-tree_size = np.log(treeFXD['dilation'])
 sizeref = graphFXD['dilation'].max()/1000
 
-fig = make_subplots(rows=2, cols=1, shared_xaxes=True,
-        subplot_titles=("Graph Visualization Fixation Duration v. Saccade Length",
-        "Tree Visualization Fixation Duration v. Saccade Length"))
+fig = make_subplots(rows=2, cols=1,
+        subplot_titles=("Graph Absolute vs Relative Angle with Pupil Dilation",
+        "Tree Absolute vs Relative Angle with Pupil Dilation"))
 
-fig.add_trace(go.Scatter(x=graphFXD['relative_angle'], y=graphFXD['absolute_angle'],
-    text = graphFXD['text'], marker_size=graph_size), row=1,col=1)
-fig.add_trace(go.Scatter(x=treeFXD['relative_angle'], y=treeFXD['absolute_angle'],
-    text = treeFXD['text'], marker_size=tree_size), row=2,col=1)
+fig.add_trace(go.Scatter(showlegend=False, x=graphFXD['relative_angle'], y=graphFXD['absolute_angle'],
+    text = graphFXD['text'], marker_color=graphFXD['color'], marker_size=10), row=1,col=1)
+fig.add_trace(go.Scatter(showlegend=False, x=treeFXD['relative_angle'], y=treeFXD['absolute_angle'],
+    text = treeFXD['text'], marker_color=treeFXD['color'], marker_size=10), row=2,col=1)
 
-fig.update_traces(mode='markers', marker=dict(sizemode='area', sizeref=sizeref, line_width=1))
+fig.update_traces(mode='markers', marker=
+    dict(sizemode='area', sizeref=sizeref, line_width=1))
 
-fig.update_layout(
-    title_text='Comparison of Graph and Tree Visualizations',
-    xaxis=dict(title='Relative Angle (degrees)', gridcolor='white', gridwidth=2,),
-    yaxis=dict(title='Absolute Angle (degrees)', gridcolor='white', gridwidth=2,),
-    paper_bgcolor='rgb(243, 243, 243)',
-    plot_bgcolor='rgb(243, 243, 243)',
-)
+
+fig.update_xaxes(title_text='Relative Angle (degrees)', row=1, col=1,)
+fig.update_xaxes(title_text='Relative Angle (degrees)', row=2, col=1,)
+fig.update_yaxes(title_text='Absolute Angle (degrees)', row=1, col=1,)
+fig.update_yaxes(title_text='Absolute Angle (degrees)', row=2, col=1,) 
 
 fig.update_xaxes(nticks=20)
-fig.update_yaxes(nticks=20)
-fig.show()
+fig.update_yaxes(nticks=10)
+
+fig.add_trace(go.Scatter(x=[None], y=[None], mode='markers',
+                       marker=dict(size=10, color='green'),
+                       legendgroup='average', showlegend=True, name='average dilation'))
+
+fig.add_trace(go.Scatter(x=[None], y=[None], mode='markers',
+                       marker=dict(size=10, color='red'),
+                       legendgroup='increased', showlegend=True, name='increased dilation'))
+fig.update_layout(
+    title_text='Comparison of Graph and Tree Visualizations',
+    paper_bgcolor='rgb(243, 243, 243)',
+    plot_bgcolor='rgb(243, 243, 243)',
+)                       
+
+#fig.show()
+fig.write_html('cecs450proj1.html', auto_open=True)

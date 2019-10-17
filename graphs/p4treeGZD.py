@@ -4,6 +4,7 @@ import json
 import plotly
 import plotly.graph_objects as go
 import numpy as np
+import csv
 
 tuples_li = []
 average_li = []
@@ -16,16 +17,23 @@ difference_holder = 0.0
 def print_list_formatted(in_list = []):
     for i in in_list:
         print("{:,.2f}".format(i), end = ' ')
+        
+#with open('./test.csv', 'wb') as file:
+    
+    
 
 with open('../json/p4treeGZD.json') as json_file:
-    data = json.load(json_file)
-    for p in data:
-        if int(p['LeftCode']) < 2 and int(p['RightCode']) < 2 and float(p['LeftPupil']) < 5 and float(p['RightPupil']) < 5:
-            print('Time: ' + p['Time'])
-            print('Left Pupil: ' + p['LeftPupil'])
-            print('Right Pupil: ' + p['RightPupil'])
-            tuple_holder = (int(p['Time']), float(p['LeftPupil']), float(p['RightPupil']))
-            tuples_li.append(tuple_holder)
+    with open('./p4treeGZD-csv.csv', 'w') as file:
+        data = json.load(json_file)
+        for p in data:
+            if int(p['LeftCode']) < 2 and int(p['RightCode']) < 2 and float(p['LeftPupil']) < 6 and float(p['RightPupil']) < 6 and float(p['LeftPupil']) > 2.4 and float(p['RightPupil']) > 2.4:
+                print('Time: ' + p['Time'])
+                file.write(p['Time'])
+                file.write('\n')
+                print('Left Pupil: ' + p['LeftPupil'])
+                print('Right Pupil: ' + p['RightPupil'])
+                tuple_holder = (int(p['Time']), float(p['LeftPupil']), float(p['RightPupil']))
+                tuples_li.append(tuple_holder)
             print('')
     for i in tuples_li:
         print(i)
@@ -63,7 +71,7 @@ with open('../json/p4treeGZD.json') as json_file:
                     mode='lines',
                     name='Pupil Dilation'))
     fig.add_trace(go.Scatter(x=[3.29,len(average_li)], y=[3.29,3.29], mode='lines', name='Pupil Baseline'))
-    #fig.update_layout(range = (0,5))
-    
+    fig.update_xaxes(range=[0, len(average_li)])
+    fig.update_yaxes(range=[2.5, 5])
     fig.show()
-    #plotly.offline.plot(fig, filename='p4treeGZD.html')
+    plotly.offline.plot(fig, filename='p4treeGZD.html')

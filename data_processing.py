@@ -49,6 +49,15 @@ def add_dilation_to_fxd(GZD, FXD):
     FXD['dilation'] = FXD['dilation'].fillna(avg)
     return FXD
 
+def dilation_color(FXD):
+    avg = FXD['dilation'].mean()
+    FXD['percentage_change'] = ((FXD['dilation'].sub(avg)).div(avg)).mul(100)
+    print(FXD['percentage_change'])
+    FXD['color'] = 'green'
+    FXD.loc[FXD['percentage_change'] > 4., 'color'] = 'red'
+    FXD.loc[FXD['percentage_change'] < -4., 'color'] = 'yellow'
+    return FXD
+
 def add_angles_to_fxd(graphFXD, treeFXD):
     graph_relative_angle, tree_relative_angle, graph_absolute_angle, tree_absolute_angle = calculateAngles()
     graphFXD['relative_angle'] = graph_relative_angle
@@ -85,21 +94,26 @@ graphFXD, treeFXD = add_angles_to_fxd(graphFXD, treeFXD)
 graphFXD['text'] = hover(graphFXD)
 treeFXD['text'] = hover(treeFXD)
 
+graphFXD = dilation_color(graphFXD)
+treeFXD = dilation_color(treeFXD)
+
 print(graphFXD)
 print(treeFXD)
 
-sizeref = 4*graphFXD['dilation'].max()/(1000)
+graph_size = np.log(graphFXD['dilation'])
+tree_size = np.log(treeFXD['dilation'])
+sizeref = graphFXD['dilation'].max()/1000
 
 fig = make_subplots(rows=2, cols=1, shared_xaxes=True,
         subplot_titles=("Graph Visualization Fixation Duration v. Saccade Length",
         "Tree Visualization Fixation Duration v. Saccade Length"))
 
 fig.add_trace(go.Scatter(x=graphFXD['relative_angle'], y=graphFXD['absolute_angle'],
-    text = graphFXD['text'], marker_size=graphFXD['dilation']), row=1,col=1)
+    text = graphFXD['text'], marker_size=graph_size), row=1,col=1)
 fig.add_trace(go.Scatter(x=treeFXD['relative_angle'], y=treeFXD['absolute_angle'],
-    text = treeFXD['text'], marker_size=treeFXD['dilation']), row=2,col=1)
+    text = treeFXD['text'], marker_size=tree_size), row=2,col=1)
 
-fig.update_traces(mode='markers', marker=dict(sizemode='area', sizeref=sizeref, line_width=2))
+fig.update_traces(mode='markers', marker=dict(sizemode='area', sizeref=sizeref, line_width=1))
 
 fig.update_layout(
     title_text='Comparison of Graph and Tree Visualizations',
@@ -109,4 +123,6 @@ fig.update_layout(
     plot_bgcolor='rgb(243, 243, 243)',
 )
 
+fig.update_xaxes(nticks=20)
+fig.update_yaxes(nticks=20)
 fig.show()

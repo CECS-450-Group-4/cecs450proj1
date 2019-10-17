@@ -13,20 +13,14 @@ baselineholder = 0.0
 final_holder = 0.0
 difference_holder = 0.0
 
-def get_figures(in_list):
-    fig = 0.0
-    for i in final_li:
-        fig = "{:,.2f}".format(i)
-        return fig
-
 def print_list_formatted(in_list = []):
     for i in in_list:
         print("{:,.2f}".format(i), end = ' ')
 
-with open('./json/p4graphGZD.json') as json_file:
+with open('../json/p4graphGZD.json') as json_file:
     data = json.load(json_file)
     for p in data:
-        if int(p['LeftCode']) < 2 and int(p['RightCode']) < 2:
+        if int(p['LeftCode']) < 2 and int(p['RightCode']) < 2 and float(p['LeftPupil']) < 4.5 and float(p['RightPupil']) < 4.5 and float(p['LeftPupil']) > 1.7 and float(p['RightPupil']) > 1.7:
             print('Time: ' + p['Time'])
             print('Left Pupil: ' + p['LeftPupil'])
             print('Right Pupil: ' + p['RightPupil'])
@@ -63,12 +57,12 @@ with open('./json/p4graphGZD.json') as json_file:
     
     # Create traces
     fig = go.Figure()
-    xVals = np.arange(373)
+    xVals = np.arange(len(average_li))
         
     fig.add_trace(go.Scatter(x= xVals, y=average_li,
                     mode='lines',
                     name='Pupil Dilation'))
-    fig.add_trace(go.Scatter(x=[3.29,373], y=[3.29,3.29], mode='lines', name='Pupil Baseline'))
+    fig.add_trace(go.Scatter(x=[3.29,len(average_li)], y=[3.29,3.29], mode='lines', name='Pupil Baseline'))
     
     fig.show()
-    plotly.offline.plot(fig, filename='p4graphGZD.html')
+    #plotly.offline.plot(fig, filename='p4graphGZD.html')

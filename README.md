@@ -1,5 +1,19 @@
-# How to work on the project
-## First time
+# CECS 450 Group 4 Project 1
+## How to run this program
+Install environment:
+
+`python3 -m venv env`
+
+`source env/bin/activate` (or for windows: `env\scripts\activate`)
+
+`pip3 install -r requirements.txt`
+
+Then run program, which will generate an html file containing the visualization.
+
+`python data_processing.py`
+
+## How to work on the project
+### First time
 * Open terminal, change working directory to loation where you want cloned directory to be made (ex ~/repos/),then Clone Repository
 `git clone git@github.com:CECS-450-Group-4/cecs450proj1.git`
 * change to cecs450proj1 directory, then make virtual environment, activate env, then install requirements

@@ -116,14 +116,14 @@ def dot_product(a, b):
   #  Uses the x and y coordinates of both points
   return a[0]*b[0]+a[1]*b[1]
 
-# Calculate the saccade length between two points
-def length(x):
+# Get the polar coordinates of each point
+def getPolarCoordinates(x):
   return math.sqrt(x[0]**2+x[1]**2)
 
 def calculateAbsoluteAngle(anglePoints):
   a = anglePoints[0] # Get angle point 1
   b = anglePoints[1] # Get angle point 2
-  cosx = dot_product(a, b) / (length(a) * length(b)) # Calc cosine
+  cosx = dot_product(a, b) / (getPolarCoordinates(a) * getPolarCoordinates(b)) # Calc cosine
   rad = math.acos(cosx) # Get radians
   deg = rad * 180 / math.pi # Convert rad to degrees
   deg = round(deg) # Round decimal500

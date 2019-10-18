@@ -69,9 +69,9 @@ def hover(FXD):
     hover_text = []
 
     for index, row in FXD.iterrows():
-        hover_text.append(('Relative Angle: {relative_angle}<br>'+
-                            'Absolute Angle: {absolute_angle}<br>'+
-                            'Pupil Dilation: {dilation}<br>')
+        hover_text.append(('Relative Angle: {relative_angle} degrees<br>'+
+                            'Absolute Angle: {absolute_angle} degrees<br>'+
+                            'Pupil Dilation: {dilation} mm<br>')
                             .format(relative_angle=row['relative_angle'], 
                             absolute_angle=row['absolute_angle'],
                             dilation=row['dilation']))
